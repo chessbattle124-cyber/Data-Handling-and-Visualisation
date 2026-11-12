@@ -1,0 +1,67 @@
+{
+  "source_file": "nirf_cleaned.csv",
+  "rows": 6844,
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "categories": {
+    "Agriculture": 120,
+    "Architecture": 210,
+    "College": 900,
+    "Dental": 230,
+    "Engineering": 1300,
+    "Innovation": 20,
+    "Law": 215,
+    "Management": 726,
+    "Medical": 345,
+    "Overall": 901,
+    "Pharmacy": 727,
+    "Research": 250,
+    "University": 900
+  },
+  "states": 34,
+  "unique_institutions": 2149,
+  "withdrawn_rows": 2,
+  "rank_status": {
+    "Valid": 6839,
+    "Numeric with suffix": 3,
+    "Withdrawn": 2
+  },
+  "score_status": {
+    "Valid": 6823,
+    "Missing": 20,
+    "Withdrawn": 1
+  },
+  "missing_key_fields": {
+    "Institution_ID": 0,
+    "Institution": 0,
+    "City": 0,
+    "State": 0,
+    "Score": 21,
+    "Rank_numeric": 2,
+    "Year": 0,
+    "Category": 0
+  },
+  "duplicate_year_category_institution_id": 0,
+  "available_measures": [
+    "Score",
+    "Rank_numeric",
+    "Year"
+  ],
+  "not_in_source": [
+    "TLR",
+    "RPC",
+    "GO",
+    "OI",
+    "Perception parameter scores"
+  ],
+  "important_caveat": "This uploaded file contains institution-level overall score and rank only. It does not contain the five NIRF parameter scores. Questions requiring TLR/RPC/GO/OI/Perception cannot be answered accurately from this file."
+}

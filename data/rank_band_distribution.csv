@@ -1,0 +1,239 @@
+Year,Category,Rank_Band,Institution_Count
+2017,College,11–50,40
+2017,College,51–100,50
+2017,College,Top 10,10
+2017,Engineering,11–50,40
+2017,Engineering,51–100,50
+2017,Engineering,Top 10,10
+2017,Management,11–50,40
+2017,Management,Top 10,10
+2017,Overall,11–50,40
+2017,Overall,51–100,50
+2017,Overall,Top 10,10
+2017,Pharmacy,11–50,40
+2017,Pharmacy,Top 10,10
+2017,University,11–50,40
+2017,University,51–100,50
+2017,University,Top 10,10
+2018,Architecture,Top 10,10
+2018,College,11–50,40
+2018,College,51–100,50
+2018,College,Top 10,9
+2018,Engineering,11–50,40
+2018,Engineering,51–100,50
+2018,Engineering,Top 10,10
+2018,Law,Top 10,10
+2018,Management,11–50,40
+2018,Management,Top 10,10
+2018,Medical,11–50,15
+2018,Medical,Top 10,10
+2018,Overall,11–50,40
+2018,Overall,51–100,50
+2018,Overall,Top 10,10
+2018,Pharmacy,11–50,40
+2018,Pharmacy,Top 10,10
+2018,University,11–50,40
+2018,University,51–100,50
+2018,University,Top 10,10
+2019,Architecture,11–50,5
+2019,Architecture,Top 10,10
+2019,College,11–50,40
+2019,College,51–100,50
+2019,College,Top 10,10
+2019,Engineering,101–200,100
+2019,Engineering,11–50,40
+2019,Engineering,51–100,50
+2019,Engineering,Top 10,10
+2019,Law,11–50,5
+2019,Law,Top 10,10
+2019,Management,11–50,40
+2019,Management,51–100,25
+2019,Management,Top 10,10
+2019,Medical,11–50,20
+2019,Medical,Top 10,10
+2019,Overall,11–50,40
+2019,Overall,51–100,50
+2019,Overall,Top 10,10
+2019,Pharmacy,11–50,40
+2019,Pharmacy,51–100,25
+2019,Pharmacy,Top 10,10
+2019,University,11–50,40
+2019,University,51–100,50
+2019,University,Top 10,10
+2020,Architecture,11–50,10
+2020,Architecture,Top 10,10
+2020,College,11–50,40
+2020,College,51–100,50
+2020,College,Top 10,10
+2020,Dental,11–50,20
+2020,Dental,Top 10,10
+2020,Engineering,101–200,100
+2020,Engineering,11–50,40
+2020,Engineering,51–100,50
+2020,Engineering,Top 10,10
+2020,Law,11–50,10
+2020,Law,Top 10,10
+2020,Management,11–50,40
+2020,Management,51–100,25
+2020,Management,Top 10,10
+2020,Medical,11–50,30
+2020,Medical,Top 10,10
+2020,Overall,11–50,40
+2020,Overall,51–100,51
+2020,Overall,Top 10,10
+2020,Pharmacy,11–50,40
+2020,Pharmacy,51–100,25
+2020,Pharmacy,Top 10,10
+2020,University,11–50,40
+2020,University,51–100,50
+2020,University,Top 10,10
+2021,Architecture,11–50,15
+2021,Architecture,Top 10,10
+2021,College,11–50,40
+2021,College,51–100,50
+2021,College,Top 10,10
+2021,Dental,11–50,30
+2021,Dental,Top 10,10
+2021,Engineering,101–200,100
+2021,Engineering,11–50,40
+2021,Engineering,51–100,50
+2021,Engineering,Top 10,10
+2021,Law,11–50,20
+2021,Law,Top 10,10
+2021,Management,11–50,40
+2021,Management,51–100,25
+2021,Management,Top 10,10
+2021,Medical,11–50,40
+2021,Medical,Top 10,10
+2021,Overall,11–50,40
+2021,Overall,51–100,50
+2021,Overall,Top 10,10
+2021,Pharmacy,11–50,40
+2021,Pharmacy,51–100,25
+2021,Pharmacy,Top 10,10
+2021,Research,11–50,40
+2021,Research,Top 10,10
+2021,University,11–50,40
+2021,University,51–100,50
+2021,University,Top 10,10
+2022,Architecture,11–50,20
+2022,Architecture,Top 10,10
+2022,College,11–50,40
+2022,College,51–100,50
+2022,College,Top 10,10
+2022,Dental,11–50,30
+2022,Dental,Top 10,10
+2022,Engineering,101–200,100
+2022,Engineering,11–50,40
+2022,Engineering,51–100,50
+2022,Engineering,Top 10,10
+2022,Law,11–50,20
+2022,Law,Top 10,10
+2022,Management,11–50,40
+2022,Management,51–100,51
+2022,Management,Top 10,10
+2022,Medical,11–50,40
+2022,Medical,Top 10,10
+2022,Overall,11–50,40
+2022,Overall,51–100,50
+2022,Overall,Top 10,10
+2022,Pharmacy,11–50,40
+2022,Pharmacy,51–100,51
+2022,Pharmacy,Top 10,10
+2022,Research,11–50,40
+2022,Research,Top 10,10
+2022,University,11–50,40
+2022,University,51–100,50
+2022,University,Top 10,10
+2023,Agriculture,11–50,30
+2023,Agriculture,Top 10,10
+2023,Architecture,11–50,20
+2023,Architecture,Top 10,10
+2023,College,11–50,40
+2023,College,51–100,50
+2023,College,Top 10,10
+2023,Dental,11–50,30
+2023,Dental,Top 10,10
+2023,Engineering,11–50,40
+2023,Engineering,51–100,50
+2023,Engineering,Top 10,10
+2023,Law,11–50,20
+2023,Law,Top 10,10
+2023,Management,11–50,40
+2023,Management,51–100,50
+2023,Management,Top 10,10
+2023,Medical,11–50,40
+2023,Medical,Top 10,10
+2023,Overall,11–50,40
+2023,Overall,51–100,50
+2023,Overall,Top 10,10
+2023,Pharmacy,11–50,40
+2023,Pharmacy,51–100,50
+2023,Pharmacy,Top 10,10
+2023,Research,11–50,40
+2023,Research,Top 10,10
+2023,University,11–50,40
+2023,University,51–100,50
+2023,University,Top 10,10
+2024,Agriculture,11–50,30
+2024,Agriculture,Top 10,10
+2024,Architecture,11–50,30
+2024,Architecture,Top 10,10
+2024,College,11–50,40
+2024,College,51–100,50
+2024,College,Top 10,10
+2024,Dental,11–50,30
+2024,Dental,Top 10,10
+2024,Engineering,11–50,40
+2024,Engineering,51–100,50
+2024,Engineering,Top 10,10
+2024,Innovation,Top 10,10
+2024,Law,11–50,30
+2024,Law,Top 10,10
+2024,Management,11–50,40
+2024,Management,51–100,50
+2024,Management,Top 10,10
+2024,Medical,11–50,40
+2024,Medical,Top 10,10
+2024,Overall,11–50,40
+2024,Overall,51–100,50
+2024,Overall,Top 10,10
+2024,Pharmacy,11–50,40
+2024,Pharmacy,51–100,50
+2024,Pharmacy,Top 10,10
+2024,Research,11–50,40
+2024,Research,Top 10,10
+2024,University,11–50,40
+2024,University,51–100,50
+2024,University,Top 10,10
+2025,Agriculture,11–50,30
+2025,Agriculture,Top 10,10
+2025,Architecture,11–50,30
+2025,Architecture,Top 10,10
+2025,College,11–50,40
+2025,College,51–100,50
+2025,College,Top 10,10
+2025,Dental,11–50,29
+2025,Dental,Top 10,10
+2025,Engineering,11–50,40
+2025,Engineering,51–100,50
+2025,Engineering,Top 10,10
+2025,Innovation,Top 10,10
+2025,Law,11–50,30
+2025,Law,Top 10,10
+2025,Management,11–50,40
+2025,Management,51–100,50
+2025,Management,Top 10,10
+2025,Medical,11–50,40
+2025,Medical,Top 10,10
+2025,Overall,11–50,40
+2025,Overall,51–100,50
+2025,Overall,Top 10,10
+2025,Pharmacy,11–50,40
+2025,Pharmacy,51–100,51
+2025,Pharmacy,Top 10,10
+2025,Research,11–50,40
+2025,Research,Top 10,10
+2025,University,11–50,40
+2025,University,51–100,50
+2025,University,Top 10,10

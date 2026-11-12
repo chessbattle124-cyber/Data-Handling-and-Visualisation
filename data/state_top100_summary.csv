@@ -1,0 +1,1726 @@
+Year,Category,State,Top100_Institutions,Average_Score
+2017,College,Andhra Pradesh,10,41.05
+2017,College,Assam,1,41.81
+2017,College,Chandigarh,3,43.31333333333333
+2017,College,Delhi,11,55.60181818181818
+2017,College,Goa,1,43.18
+2017,College,Gujarat,3,41.906666666666666
+2017,College,Karnataka,6,39.88333333333333
+2017,College,Kerala,14,43.56428571428571
+2017,College,Maharashtra,10,41.217
+2017,College,Tamil Nadu,37,45.49918918918919
+2017,College,West Bengal,4,45.9975
+2017,Engineering,Andhra Pradesh,5,38.916000000000004
+2017,Engineering,Assam,2,57.515
+2017,Engineering,Bihar,1,54.02
+2017,Engineering,Chandigarh,1,37.44
+2017,Engineering,Delhi,5,52.536
+2017,Engineering,Gujarat,5,41.998000000000005
+2017,Engineering,Haryana,1,41.61
+2017,Engineering,Himachal Pradesh,3,43.36000000000001
+2017,Engineering,Jharkhand,2,51.25
+2017,Engineering,Karnataka,8,42.7775
+2017,Engineering,Kerala,3,43.96666666666667
+2017,Engineering,Madhya Pradesh,3,46.13666666666666
+2017,Engineering,Maharashtra,10,48.683
+2017,Engineering,Manipur,1,37.27
+2017,Engineering,Meghalaya,1,36.21
+2017,Engineering,Odisha,4,48.4
+2017,Engineering,Pondicherry,1,46.37
+2017,Engineering,Punjab,2,52.14
+2017,Engineering,Rajasthan,3,45.00333333333333
+2017,Engineering,Tamil Nadu,22,46.47772727272727
+2017,Engineering,Telangana,6,44.01666666666667
+2017,Engineering,Uttar Pradesh,6,50.9
+2017,Engineering,Uttarakhand,1,73.1
+2017,Engineering,West Bengal,4,60.375
+2017,Management,Andhra Pradesh,1,43.6
+2017,Management,Assam,1,43.29
+2017,Management,Chhattisgarh,1,54.8
+2017,Management,Delhi,5,49.71
+2017,Management,Goa,1,44.06
+2017,Management,Gujarat,3,57.53333333333333
+2017,Management,Haryana,2,52.14
+2017,Management,Jharkhand,2,54.89
+2017,Management,Karnataka,2,59.44499999999999
+2017,Management,Kerala,1,65.41
+2017,Management,Madhya Pradesh,3,48.35333333333333
+2017,Management,Maharashtra,7,45.6
+2017,Management,Meghalaya,1,50.44
+2017,Management,Odisha,2,47.64
+2017,Management,Rajasthan,1,53.77
+2017,Management,Tamil Nadu,6,48.23333333333333
+2017,Management,Uttar Pradesh,6,51.53
+2017,Management,Uttarakhand,2,56.765
+2017,Management,West Bengal,3,60.04
+2017,Overall,Andhra Pradesh,2,41.43
+2017,Overall,Assam,3,49.52333333333333
+2017,Overall,Bihar,1,39.87
+2017,Overall,Chandigarh,1,43.13
+2017,Overall,Delhi,6,54.81166666666667
+2017,Overall,Gujarat,3,45.669999999999995
+2017,Overall,Haryana,1,38.26
+2017,Overall,Himachal Pradesh,2,42.58
+2017,Overall,Jharkhand,1,43.21
+2017,Overall,Karnataka,8,50.265
+2017,Overall,Kerala,4,41.165000000000006
+2017,Overall,Madhya Pradesh,2,43.775
+2017,Overall,Maharashtra,9,47.21888888888889
+2017,Overall,Meghalaya,2,38.894999999999996
+2017,Overall,Mizoram,1,38.36
+2017,Overall,Odisha,4,43.24
+2017,Overall,Pondicherry,1,42.7
+2017,Overall,Punjab,5,43.396
+2017,Overall,Rajasthan,3,44.11666666666667
+2017,Overall,Tamil Nadu,20,45.7435
+2017,Overall,Telangana,5,46.736000000000004
+2017,Overall,Uttar Pradesh,7,47.74142857142857
+2017,Overall,Uttarakhand,2,50.6
+2017,Overall,West Bengal,7,50.52428571428572
+2017,Pharmacy,Andhra Pradesh,3,41.28333333333333
+2017,Pharmacy,Assam,1,45.12
+2017,Pharmacy,Chandigarh,1,69.59
+2017,Pharmacy,Chhattisgarh,1,38.1
+2017,Pharmacy,Delhi,2,61.04
+2017,Pharmacy,Goa,1,40.01
+2017,Pharmacy,Gujarat,2,45.985
+2017,Pharmacy,Haryana,2,38.56
+2017,Pharmacy,Himachal Pradesh,1,37.45
+2017,Pharmacy,Jharkhand,1,51.09
+2017,Pharmacy,Karnataka,4,47.6775
+2017,Pharmacy,Madhya Pradesh,2,45.165000000000006
+2017,Pharmacy,Maharashtra,17,40.84823529411764
+2017,Pharmacy,Punjab,2,59.155
+2017,Pharmacy,Rajasthan,2,55.275000000000006
+2017,Pharmacy,Tamil Nadu,6,45.473333333333336
+2017,Pharmacy,Telangana,1,65.14
+2017,Pharmacy,Uttar Pradesh,1,41.57
+2017,University,Andhra Pradesh,7,36.83142857142857
+2017,University,Arunachal Pradesh,1,36.15
+2017,University,Assam,4,39.715
+2017,University,Chandigarh,1,43.13
+2017,University,Delhi,6,50.04833333333334
+2017,University,Goa,1,37.16
+2017,University,Gujarat,2,39.235
+2017,University,Haryana,1,38.26
+2017,University,Himachal Pradesh,2,36.84
+2017,University,Jammu And Kashmir,2,36.775
+2017,University,Karnataka,8,47.5625
+2017,University,Kerala,5,39.534000000000006
+2017,University,Maharashtra,8,42.31375
+2017,University,Meghalaya,1,40.51
+2017,University,Mizoram,1,38.36
+2017,University,Odisha,2,43.595
+2017,University,Pondicherry,2,39.1
+2017,University,Punjab,4,40.425
+2017,University,Rajasthan,4,40.7075
+2017,University,Tamil Nadu,24,41.11666666666667
+2017,University,Telangana,2,50.91
+2017,University,Uttar Pradesh,7,42.098571428571425
+2017,University,West Bengal,5,45.296
+2018,Architecture,Delhi,2,51.975
+2018,Architecture,Himachal Pradesh,1,46.04
+2018,Architecture,Karnataka,1,43.14
+2018,Architecture,Kerala,1,54.15
+2018,Architecture,Madhya Pradesh,1,53.1
+2018,Architecture,Tamil Nadu,1,50.83
+2018,Architecture,Telangana,1,49.82
+2018,Architecture,Uttarakhand,1,74.24
+2018,Architecture,West Bengal,1,78.41
+2018,College,Andhra Pradesh,2,51.285
+2018,College,Chandigarh,2,47.845
+2018,College,Delhi,27,55.828518518518514
+2018,College,Gujarat,2,49.95
+2018,College,Karnataka,3,48.29
+2018,College,Kerala,17,49.61352941176471
+2018,College,Maharashtra,4,50.08
+2018,College,Tamil Nadu,37,51.31945945945946
+2018,College,West Bengal,5,56.29
+2018,Engineering,Andhra Pradesh,5,39.54600000000001
+2018,Engineering,Assam,2,56.17
+2018,Engineering,Bihar,1,52.37
+2018,Engineering,Chandigarh,2,40.96
+2018,Engineering,Chhattisgarh,1,37.38
+2018,Engineering,Delhi,5,51.096000000000004
+2018,Engineering,Gujarat,2,46.28
+2018,Engineering,Haryana,1,46.29
+2018,Engineering,Himachal Pradesh,3,43.15
+2018,Engineering,Jammu and Kashmir,1,36.28
+2018,Engineering,Jharkhand,2,55.18
+2018,Engineering,Karnataka,10,41.494
+2018,Engineering,Kerala,3,45.10999999999999
+2018,Engineering,Madhya Pradesh,3,45.903333333333336
+2018,Engineering,Maharashtra,9,48.68222222222222
+2018,Engineering,Meghalaya,1,36.0
+2018,Engineering,Odisha,4,48.7275
+2018,Engineering,Pondicherry,1,43.7
+2018,Engineering,Punjab,3,49.196666666666665
+2018,Engineering,Rajasthan,3,48.086666666666666
+2018,Engineering,Tamil Nadu,19,47.57631578947369
+2018,Engineering,Telangana,5,48.696
+2018,Engineering,Tripura,1,36.36
+2018,Engineering,Uttar Pradesh,8,48.695
+2018,Engineering,Uttarakhand,1,72.57
+2018,Engineering,West Bengal,4,59.045
+2018,Law,Andhra Pradesh,1,50.93
+2018,Law,Delhi,2,67.245
+2018,Law,Karnataka,1,75.79
+2018,Law,Maharashtra,1,54.25
+2018,Law,Rajasthan,1,63.5
+2018,Law,Telangana,1,70.95
+2018,Law,Uttar Pradesh,1,54.82
+2018,Law,West Bengal,2,63.12
+2018,Management,Andhra Pradesh,2,45.065
+2018,Management,Chandigarh,1,43.8
+2018,Management,Chhattisgarh,1,51.17
+2018,Management,Delhi,6,50.248333333333335
+2018,Management,Gujarat,2,61.400000000000006
+2018,Management,Haryana,2,54.96
+2018,Management,Jharkhand,3,50.026666666666664
+2018,Management,Karnataka,1,77.33
+2018,Management,Kerala,1,65.21
+2018,Management,Madhya Pradesh,2,52.045
+2018,Management,Maharashtra,6,53.74
+2018,Management,Meghalaya,1,50.53
+2018,Management,Odisha,2,48.035
+2018,Management,Punjab,1,44.75
+2018,Management,Rajasthan,1,59.07
+2018,Management,Tamil Nadu,6,51.055
+2018,Management,Telangana,1,51.16
+2018,Management,Uttar Pradesh,7,49.13857142857143
+2018,Management,Uttarakhand,2,57.075
+2018,Management,West Bengal,2,70.22
+2018,Medical,Chandigarh,2,64.235
+2018,Medical,Delhi,5,61.516
+2018,Medical,Karnataka,4,53.7425
+2018,Medical,Maharashtra,1,49.42
+2018,Medical,Odisha,2,48.980000000000004
+2018,Medical,Pondicherry,2,53.625
+2018,Medical,Punjab,1,52.0
+2018,Medical,Tamil Nadu,5,54.702
+2018,Medical,Uttar Pradesh,3,58.86333333333334
+2018,Overall,Andhra Pradesh,4,44.735
+2018,Overall,Assam,3,51.199999999999996
+2018,Overall,Bihar,1,44.25
+2018,Overall,Chandigarh,1,50.94
+2018,Overall,Delhi,6,57.873333333333335
+2018,Overall,Goa,1,40.66
+2018,Overall,Gujarat,1,49.31
+2018,Overall,Haryana,1,43.21
+2018,Overall,Jammu and Kashmir,2,43.575
+2018,Overall,Jharkhand,2,48.375
+2018,Overall,Karnataka,6,52.79
+2018,Overall,Kerala,4,45.195
+2018,Overall,Madhya Pradesh,1,46.17
+2018,Overall,Maharashtra,11,49.939090909090915
+2018,Overall,Meghalaya,1,42.34
+2018,Overall,Odisha,4,47.5225
+2018,Overall,Pondicherry,2,41.54
+2018,Overall,Punjab,4,45.3175
+2018,Overall,Rajasthan,2,47.015
+2018,Overall,Tamil Nadu,22,49.372727272727275
+2018,Overall,Telangana,4,51.1975
+2018,Overall,Uttar Pradesh,8,52.48625
+2018,Overall,Uttarakhand,2,55.745000000000005
+2018,Overall,West Bengal,7,54.78857142857142
+2018,Pharmacy,Andhra Pradesh,2,42.91
+2018,Pharmacy,Assam,1,44.42
+2018,Pharmacy,Chandigarh,1,76.5
+2018,Pharmacy,Chhattisgarh,2,41.095
+2018,Pharmacy,Delhi,2,63.425
+2018,Pharmacy,Goa,1,41.96
+2018,Pharmacy,Gujarat,4,52.6025
+2018,Pharmacy,Haryana,2,40.615
+2018,Pharmacy,Himachal Pradesh,1,44.22
+2018,Pharmacy,Jharkhand,1,56.63
+2018,Pharmacy,Karnataka,4,54.2575
+2018,Pharmacy,Madhya Pradesh,1,40.11
+2018,Pharmacy,Maharashtra,11,48.59090909090909
+2018,Pharmacy,Punjab,5,53.501999999999995
+2018,Pharmacy,Rajasthan,2,62.665
+2018,Pharmacy,Tamil Nadu,7,46.40571428571428
+2018,Pharmacy,Telangana,1,67.68
+2018,Pharmacy,Uttar Pradesh,2,42.775000000000006
+2018,University,Andhra Pradesh,6,42.748333333333335
+2018,University,Assam,4,42.84
+2018,University,Chandigarh,1,50.94
+2018,University,Delhi,6,52.22
+2018,University,Goa,1,40.66
+2018,University,Gujarat,2,38.68
+2018,University,Haryana,3,40.843333333333334
+2018,University,Himachal Pradesh,1,40.3
+2018,University,Jammu and Kashmir,2,43.575
+2018,University,Jharkhand,1,44.71
+2018,University,Karnataka,9,47.33555555555555
+2018,University,Kerala,4,43.7175
+2018,University,Maharashtra,9,46.217777777777776
+2018,University,Meghalaya,1,42.34
+2018,University,Mizoram,1,39.36
+2018,University,Nagaland,1,38.14
+2018,University,Odisha,3,44.31666666666666
+2018,University,Pondicherry,2,41.305
+2018,University,Punjab,3,45.01
+2018,University,Rajasthan,2,47.015
+2018,University,Tamil Nadu,20,46.7815
+2018,University,Telangana,4,46.345
+2018,University,Uttar Pradesh,7,48.58857142857143
+2018,University,Uttarakhand,1,46.56
+2018,University,West Bengal,6,46.20166666666666
+2019,Architecture,Andhra Pradesh,2,56.385000000000005
+2019,Architecture,Delhi,2,60.28
+2019,Architecture,Jharkhand,1,56.62
+2019,Architecture,Karnataka,1,50.61
+2019,Architecture,Kerala,2,62.495
+2019,Architecture,Madhya Pradesh,2,55.295
+2019,Architecture,Tamil Nadu,2,55.97
+2019,Architecture,Uttar Pradesh,1,52.17
+2019,Architecture,Uttarakhand,1,78.33
+2019,Architecture,West Bengal,1,81.96
+2019,College,Andhra Pradesh,2,52.765
+2019,College,Chandigarh,2,50.2
+2019,College,Delhi,29,58.76586206896552
+2019,College,Gujarat,2,55.46
+2019,College,Karnataka,1,52.26
+2019,College,Kerala,18,52.37388888888889
+2019,College,Maharashtra,3,53.86000000000001
+2019,College,Pondicherry,1,52.93
+2019,College,Tamil Nadu,35,54.108
+2019,College,Telangana,1,49.7
+2019,College,West Bengal,6,60.20666666666667
+2019,Engineering,Andhra Pradesh,3,41.25333333333333
+2019,Engineering,Assam,2,58.24
+2019,Engineering,Bihar,1,54.86
+2019,Engineering,Chandigarh,2,41.005
+2019,Engineering,Chhattisgarh,1,39.09
+2019,Engineering,Delhi,5,54.232000000000006
+2019,Engineering,Goa,1,37.06
+2019,Engineering,Gujarat,3,44.196666666666665
+2019,Engineering,Haryana,1,47.58
+2019,Engineering,Himachal Pradesh,2,48.739999999999995
+2019,Engineering,Jammu and Kashmir,1,37.32
+2019,Engineering,Jharkhand,2,54.14
+2019,Engineering,Karnataka,7,43.16285714285714
+2019,Engineering,Kerala,3,48.07666666666666
+2019,Engineering,Madhya Pradesh,4,44.2725
+2019,Engineering,Maharashtra,8,49.698750000000004
+2019,Engineering,Meghalaya,1,40.32
+2019,Engineering,Odisha,5,49.4
+2019,Engineering,Pondicherry,1,38.56
+2019,Engineering,Punjab,3,47.696666666666665
+2019,Engineering,Rajasthan,3,48.25666666666667
+2019,Engineering,Tamil Nadu,21,46.067142857142855
+2019,Engineering,Telangana,6,47.754999999999995
+2019,Engineering,Tripura,1,39.53
+2019,Engineering,Uttar Pradesh,8,49.35375
+2019,Engineering,Uttarakhand,1,74.57
+2019,Engineering,West Bengal,4,60.33
+2019,Law,Andhra Pradesh,1,50.58
+2019,Law,Delhi,3,62.71333333333334
+2019,Law,Gujarat,1,58.64
+2019,Law,Karnataka,1,77.21
+2019,Law,Madhya Pradesh,1,53.41
+2019,Law,Maharashtra,1,60.68
+2019,Law,Odisha,1,52.96
+2019,Law,Punjab,1,55.53
+2019,Law,Rajasthan,1,63.94
+2019,Law,Telangana,1,74.61
+2019,Law,Uttar Pradesh,1,52.39
+2019,Law,West Bengal,2,67.6
+2019,Management,Andhra Pradesh,2,44.14
+2019,Management,Chandigarh,1,44.99
+2019,Management,Chhattisgarh,1,53.86
+2019,Management,Delhi,9,48.08555555555555
+2019,Management,Goa,1,44.72
+2019,Management,Gujarat,3,57.32
+2019,Management,Haryana,2,57.5
+2019,Management,Himachal Pradesh,1,41.84
+2019,Management,Jharkhand,4,52.1625
+2019,Management,Karnataka,3,58.80666666666667
+2019,Management,Kerala,1,64.82
+2019,Management,Madhya Pradesh,2,54.995000000000005
+2019,Management,Maharashtra,8,50.52875
+2019,Management,Meghalaya,1,53.01
+2019,Management,Odisha,3,46.06666666666666
+2019,Management,Punjab,3,41.71333333333333
+2019,Management,Rajasthan,3,47.026666666666664
+2019,Management,Tamil Nadu,10,49.888999999999996
+2019,Management,Telangana,2,47.025000000000006
+2019,Management,Uttar Pradesh,9,47.724444444444444
+2019,Management,Uttarakhand,3,52.836666666666666
+2019,Management,West Bengal,3,63.71
+2019,Medical,Andhra Pradesh,1,46.38
+2019,Medical,Chandigarh,1,77.88
+2019,Medical,Delhi,6,58.651666666666664
+2019,Medical,Karnataka,5,53.3
+2019,Medical,Kerala,1,62.84
+2019,Medical,Maharashtra,1,49.81
+2019,Medical,Manipur,1,46.6
+2019,Medical,Odisha,2,47.935
+2019,Medical,Pondicherry,1,61.38
+2019,Medical,Punjab,2,49.215
+2019,Medical,Tamil Nadu,5,54.39
+2019,Medical,Uttar Pradesh,4,60.035
+2019,Overall,Andhra Pradesh,3,47.23
+2019,Overall,Assam,3,53.169999999999995
+2019,Overall,Bihar,1,46.28
+2019,Overall,Chandigarh,1,51.25
+2019,Overall,Delhi,7,57.26571428571429
+2019,Overall,Gujarat,2,44.525000000000006
+2019,Overall,Haryana,1,42.36
+2019,Overall,Himachal Pradesh,1,49.4
+2019,Overall,Jammu and Kashmir,1,44.19
+2019,Overall,Jharkhand,2,48.445
+2019,Overall,Karnataka,7,51.56857142857143
+2019,Overall,Kerala,4,45.7325
+2019,Overall,Madhya Pradesh,1,50.88
+2019,Overall,Maharashtra,12,50.1675
+2019,Overall,Meghalaya,1,45.99
+2019,Overall,Odisha,4,49.44
+2019,Overall,Pondicherry,1,44.88
+2019,Overall,Punjab,4,45.7625
+2019,Overall,Rajasthan,2,46.875
+2019,Overall,Tamil Nadu,21,49.965714285714284
+2019,Overall,Telangana,4,53.6725
+2019,Overall,Uttar Pradesh,7,54.62285714285714
+2019,Overall,Uttarakhand,2,56.885000000000005
+2019,Overall,West Bengal,8,54.70625
+2019,Pharmacy,Andhra Pradesh,6,41.01833333333334
+2019,Pharmacy,Assam,2,42.705
+2019,Pharmacy,Chandigarh,1,78.1
+2019,Pharmacy,Chhattisgarh,2,42.870000000000005
+2019,Pharmacy,Delhi,2,64.935
+2019,Pharmacy,Goa,1,43.07
+2019,Pharmacy,Gujarat,5,50.989999999999995
+2019,Pharmacy,Haryana,4,43.697500000000005
+2019,Pharmacy,Himachal Pradesh,1,44.22
+2019,Pharmacy,Jharkhand,1,59.16
+2019,Pharmacy,Karnataka,6,49.919999999999995
+2019,Pharmacy,Kerala,2,46.515
+2019,Pharmacy,Madhya Pradesh,1,39.33
+2019,Pharmacy,Maharashtra,18,44.913333333333334
+2019,Pharmacy,Punjab,6,52.178333333333335
+2019,Pharmacy,Rajasthan,2,61.875
+2019,Pharmacy,Tamil Nadu,8,49.58625
+2019,Pharmacy,Telangana,2,52.97
+2019,Pharmacy,Uttar Pradesh,3,44.656666666666666
+2019,Pharmacy,West Bengal,2,37.455
+2019,University,Andhra Pradesh,5,44.27
+2019,University,Arunachal Pradesh,1,38.48
+2019,University,Assam,4,43.0025
+2019,University,Chandigarh,1,51.25
+2019,University,Delhi,6,53.695
+2019,University,Goa,1,38.76
+2019,University,Gujarat,1,41.2
+2019,University,Haryana,3,39.96666666666667
+2019,University,Himachal Pradesh,1,40.07
+2019,University,Jammu and Kashmir,2,42.31
+2019,University,Jharkhand,1,43.49
+2019,University,Karnataka,10,47.174
+2019,University,Kerala,4,45.7325
+2019,University,Maharashtra,11,45.78272727272727
+2019,University,Meghalaya,1,45.99
+2019,University,Mizoram,1,40.27
+2019,University,Odisha,2,49.14
+2019,University,Pondicherry,2,42.875
+2019,University,Punjab,4,44.075
+2019,University,Rajasthan,2,46.875
+2019,University,Tamil Nadu,21,46.604285714285716
+2019,University,Telangana,4,47.9625
+2019,University,Uttar Pradesh,6,50.17333333333334
+2019,University,Uttarakhand,1,46.09
+2019,University,West Bengal,5,49.1
+2020,Architecture,Andhra Pradesh,1,59.63
+2020,Architecture,Delhi,2,60.959999999999994
+2020,Architecture,Gujarat,1,66.68
+2020,Architecture,Himachal Pradesh,1,48.59
+2020,Architecture,Jharkhand,1,52.45
+2020,Architecture,Karnataka,2,52.644999999999996
+2020,Architecture,Kerala,2,62.495
+2020,Architecture,Madhya Pradesh,2,57.785
+2020,Architecture,Tamil Nadu,4,51.955
+2020,Architecture,Uttar Pradesh,1,51.52
+2020,Architecture,Uttarakhand,1,79.75
+2020,Architecture,West Bengal,2,72.755
+2020,College,Andhra Pradesh,1,57.64
+2020,College,Chandigarh,1,51.28
+2020,College,Delhi,29,60.543103448275865
+2020,College,Gujarat,2,57.47
+2020,College,Haryana,1,54.93
+2020,College,Karnataka,1,52.37
+2020,College,Kerala,20,53.0495
+2020,College,Maharashtra,3,53.61333333333334
+2020,College,Pondicherry,2,52.635000000000005
+2020,College,Tamil Nadu,32,56.4725
+2020,College,Telangana,1,52.28
+2020,College,West Bengal,7,59.712857142857146
+2020,Dental,Chandigarh,1,53.09
+2020,Dental,Delhi,2,70.265
+2020,Dental,Haryana,2,57.86
+2020,Dental,Karnataka,10,62.95
+2020,Dental,Kerala,1,61.46
+2020,Dental,Madhya Pradesh,1,56.08
+2020,Dental,Maharashtra,3,67.3
+2020,Dental,Odisha,2,61.495
+2020,Dental,Punjab,1,58.29
+2020,Dental,Rajasthan,1,52.87
+2020,Dental,Tamil Nadu,4,64.275
+2020,Dental,Telangana,1,55.13
+2020,Dental,Uttar Pradesh,1,52.57
+2020,Engineering,Andhra Pradesh,3,41.27666666666667
+2020,Engineering,Assam,3,55.160000000000004
+2020,Engineering,Bihar,2,46.975
+2020,Engineering,Chandigarh,2,40.935
+2020,Engineering,Chhattisgarh,1,41.58
+2020,Engineering,Delhi,6,53.04333333333333
+2020,Engineering,Goa,1,39.93
+2020,Engineering,Gujarat,2,50.870000000000005
+2020,Engineering,Haryana,1,51.19
+2020,Engineering,Himachal Pradesh,2,45.95
+2020,Engineering,Jammu and Kashmir,1,39.68
+2020,Engineering,Jharkhand,3,50.973333333333336
+2020,Engineering,Karnataka,9,44.50666666666667
+2020,Engineering,Kerala,4,51.405
+2020,Engineering,Madhya Pradesh,4,45.485
+2020,Engineering,Maharashtra,7,52.392857142857146
+2020,Engineering,Meghalaya,1,43.69
+2020,Engineering,Odisha,5,51.29600000000001
+2020,Engineering,Punjab,5,46.822
+2020,Engineering,Rajasthan,3,50.92333333333334
+2020,Engineering,Tamil Nadu,17,49.40294117647059
+2020,Engineering,Telangana,5,51.410000000000004
+2020,Engineering,Tripura,1,39.98
+2020,Engineering,Uttar Pradesh,6,55.873333333333335
+2020,Engineering,Uttarakhand,2,57.30500000000001
+2020,Engineering,West Bengal,4,61.33
+2020,Law,Assam,1,49.9
+2020,Law,Chandigarh,1,51.11
+2020,Law,Delhi,3,60.46333333333333
+2020,Law,Gujarat,1,60.78
+2020,Law,Karnataka,2,63.334999999999994
+2020,Law,Madhya Pradesh,1,49.6
+2020,Law,Maharashtra,1,59.54
+2020,Law,Odisha,2,52.385
+2020,Law,Punjab,1,54.19
+2020,Law,Rajasthan,1,64.29
+2020,Law,Telangana,1,73.12
+2020,Law,Uttar Pradesh,3,51.67333333333334
+2020,Law,West Bengal,2,67.38
+2020,Management,Andhra Pradesh,2,44.73
+2020,Management,Chandigarh,1,47.22
+2020,Management,Chhattisgarh,1,56.12
+2020,Management,Delhi,7,52.005714285714284
+2020,Management,Goa,1,46.63
+2020,Management,Gujarat,4,53.667500000000004
+2020,Management,Haryana,3,56.71
+2020,Management,Jharkhand,4,55.480000000000004
+2020,Management,Karnataka,4,56.72
+2020,Management,Kerala,1,69.96
+2020,Management,Madhya Pradesh,2,56.650000000000006
+2020,Management,Maharashtra,10,52.18300000000001
+2020,Management,Meghalaya,1,53.56
+2020,Management,Odisha,3,49.57333333333333
+2020,Management,Punjab,4,45.3575
+2020,Management,Rajasthan,2,51.769999999999996
+2020,Management,Tamil Nadu,8,51.59375
+2020,Management,Telangana,2,49.795
+2020,Management,Uttar Pradesh,9,50.97888888888889
+2020,Management,Uttarakhand,3,52.88999999999999
+2020,Management,West Bengal,3,65.68
+2020,Medical,Andhra Pradesh,1,45.93
+2020,Medical,Chandigarh,2,66.035
+2020,Medical,Delhi,6,61.928333333333335
+2020,Medical,Haryana,1,48.13
+2020,Medical,Karnataka,7,56.642857142857146
+2020,Medical,Kerala,1,64.39
+2020,Medical,Maharashtra,3,49.419999999999995
+2020,Medical,Manipur,1,45.93
+2020,Medical,Odisha,2,50.45
+2020,Medical,Pondicherry,2,54.394999999999996
+2020,Medical,Punjab,2,53.375
+2020,Medical,Rajasthan,1,50.44
+2020,Medical,Tamil Nadu,7,54.68
+2020,Medical,Uttar Pradesh,4,63.3375
+2020,Overall,Andhra Pradesh,3,47.75666666666667
+2020,Overall,Assam,4,50.97
+2020,Overall,Bihar,1,48.09
+2020,Overall,Chandigarh,1,50.24
+2020,Overall,Delhi,6,61.13666666666666
+2020,Overall,Gujarat,2,49.295
+2020,Overall,Himachal Pradesh,1,46.56
+2020,Overall,Jammu and Kashmir,2,44.14
+2020,Overall,Jharkhand,2,50.11
+2020,Overall,Karnataka,6,55.94
+2020,Overall,Kerala,5,46.589999999999996
+2020,Overall,Madhya Pradesh,2,53.385
+2020,Overall,Maharashtra,12,50.65
+2020,Overall,Meghalaya,1,45.31
+2020,Overall,Mizoram,1,41.8
+2020,Overall,Odisha,4,50.26
+2020,Overall,Pondicherry,1,44.48
+2020,Overall,Punjab,5,46.464
+2020,Overall,Rajasthan,4,46.9725
+2020,Overall,Tamil Nadu,18,51.64333333333334
+2020,Overall,Telangana,4,54.4675
+2020,Overall,Uttar Pradesh,8,53.43875
+2020,Overall,Uttarakhand,1,68.48
+2020,Overall,West Bengal,7,55.67714285714286
+2020,Pharmacy,Andhra Pradesh,6,42.01
+2020,Pharmacy,Assam,3,48.73666666666667
+2020,Pharmacy,Chandigarh,1,79.8
+2020,Pharmacy,Chhattisgarh,2,42.385000000000005
+2020,Pharmacy,Delhi,2,66.315
+2020,Pharmacy,Goa,1,42.73
+2020,Pharmacy,Gujarat,4,55.62
+2020,Pharmacy,Haryana,3,49.56999999999999
+2020,Pharmacy,Himachal Pradesh,1,45.69
+2020,Pharmacy,Jharkhand,1,56.52
+2020,Pharmacy,Karnataka,5,52.786
+2020,Pharmacy,Kerala,1,56.82
+2020,Pharmacy,Maharashtra,18,45.60888888888889
+2020,Pharmacy,Punjab,6,52.76
+2020,Pharmacy,Rajasthan,2,63.745000000000005
+2020,Pharmacy,Tamil Nadu,9,48.35666666666667
+2020,Pharmacy,Telangana,1,73.81
+2020,Pharmacy,Uttar Pradesh,5,47.356
+2020,Pharmacy,Uttarakhand,1,37.23
+2020,Pharmacy,West Bengal,3,43.01333333333333
+2020,University,Andhra Pradesh,6,45.995000000000005
+2020,University,Assam,3,45.64000000000001
+2020,University,Chandigarh,1,51.85
+2020,University,Delhi,6,55.37166666666667
+2020,University,Goa,1,41.37
+2020,University,Gujarat,1,48.21
+2020,University,Haryana,4,40.665
+2020,University,Jammu and Kashmir,2,46.769999999999996
+2020,University,Jharkhand,1,43.5
+2020,University,Karnataka,11,49.31363636363637
+2020,University,Kerala,4,48.667500000000004
+2020,University,Maharashtra,13,47.95846153846154
+2020,University,Meghalaya,1,46.88
+2020,University,Mizoram,1,43.49
+2020,University,Odisha,3,48.49333333333333
+2020,University,Pondicherry,2,43.370000000000005
+2020,University,Punjab,5,44.784
+2020,University,Rajasthan,2,51.055
+2020,University,Tamil Nadu,18,49.39722222222222
+2020,University,Telangana,3,51.51333333333333
+2020,University,Uttar Pradesh,6,50.70666666666667
+2020,University,Uttarakhand,1,40.04
+2020,University,West Bengal,5,50.364
+2021,Architecture,Andhra Pradesh,1,64.27
+2021,Architecture,Delhi,2,63.675
+2021,Architecture,Gujarat,1,66.77
+2021,Architecture,Himachal Pradesh,1,50.11
+2021,Architecture,Jammu and Kashmir,1,50.1
+2021,Architecture,Jharkhand,1,55.21
+2021,Architecture,Karnataka,2,54.385000000000005
+2021,Architecture,Kerala,2,66.76
+2021,Architecture,Madhya Pradesh,2,59.0
+2021,Architecture,Maharashtra,1,53.93
+2021,Architecture,Punjab,3,54.11333333333334
+2021,Architecture,Tamil Nadu,4,54.667500000000004
+2021,Architecture,Uttar Pradesh,1,55.24
+2021,Architecture,Uttarakhand,1,82.65
+2021,Architecture,West Bengal,2,68.95
+2021,College,Andhra Pradesh,1,57.47
+2021,College,Chandigarh,1,52.22
+2021,College,Delhi,28,60.43464285714286
+2021,College,Gujarat,2,57.795
+2021,College,Haryana,1,57.15
+2021,College,Karnataka,3,52.336666666666666
+2021,College,Kerala,19,53.18421052631579
+2021,College,Maharashtra,4,52.1925
+2021,College,Pondicherry,1,55.01
+2021,College,Rajasthan,1,51.89
+2021,College,Tamil Nadu,33,56.29363636363637
+2021,College,Telangana,1,51.58
+2021,College,West Bengal,5,62.77
+2021,Dental,Andhra Pradesh,1,54.55
+2021,Dental,Delhi,2,67.945
+2021,Dental,Haryana,3,54.36333333333334
+2021,Dental,Karnataka,12,61.096666666666664
+2021,Dental,Madhya Pradesh,1,51.66
+2021,Dental,Maharashtra,5,61.034000000000006
+2021,Dental,Odisha,2,60.85
+2021,Dental,Punjab,1,51.43
+2021,Dental,Tamil Nadu,7,61.43571428571429
+2021,Dental,Telangana,1,51.99
+2021,Dental,Uttar Pradesh,5,56.220000000000006
+2021,Engineering,Andhra Pradesh,2,45.205
+2021,Engineering,Assam,3,55.129999999999995
+2021,Engineering,Bihar,2,49.72
+2021,Engineering,Chandigarh,2,41.39
+2021,Engineering,Chhattisgarh,1,44.83
+2021,Engineering,Delhi,5,56.489999999999995
+2021,Engineering,Goa,1,40.6
+2021,Engineering,Gujarat,3,50.00666666666667
+2021,Engineering,Haryana,2,44.91
+2021,Engineering,Himachal Pradesh,2,45.835
+2021,Engineering,Jammu and Kashmir,2,41.925
+2021,Engineering,Jharkhand,3,51.553333333333335
+2021,Engineering,Karnataka,8,45.635000000000005
+2021,Engineering,Kerala,3,49.57666666666666
+2021,Engineering,Madhya Pradesh,3,49.583333333333336
+2021,Engineering,Maharashtra,7,53.50142857142857
+2021,Engineering,Meghalaya,1,45.37
+2021,Engineering,Odisha,5,52.112
+2021,Engineering,Punjab,5,50.512
+2021,Engineering,Rajasthan,5,49.226
+2021,Engineering,Tamil Nadu,16,52.588125
+2021,Engineering,Telangana,4,54.379999999999995
+2021,Engineering,Tripura,1,39.86
+2021,Engineering,Uttar Pradesh,7,55.17
+2021,Engineering,Uttarakhand,3,53.26
+2021,Engineering,West Bengal,4,63.225
+2021,Law,Andhra Pradesh,1,45.31
+2021,Law,Assam,1,49.26
+2021,Law,Chandigarh,1,45.62
+2021,Law,Delhi,4,60.63
+2021,Law,Gujarat,1,65.18
+2021,Law,Karnataka,2,63.92
+2021,Law,Kerala,1,45.66
+2021,Law,Madhya Pradesh,1,52.89
+2021,Law,Maharashtra,1,61.49
+2021,Law,Odisha,2,53.795
+2021,Law,Punjab,3,48.26333333333333
+2021,Law,Rajasthan,1,63.41
+2021,Law,Sikkim,1,44.24
+2021,Law,Tamil Nadu,2,52.795
+2021,Law,Telangana,2,58.775
+2021,Law,Uttar Pradesh,3,51.373333333333335
+2021,Law,Uttarakhand,1,46.03
+2021,Law,West Bengal,2,71.16499999999999
+2021,Management,Andhra Pradesh,2,49.595
+2021,Management,Chhattisgarh,1,62.12
+2021,Management,Delhi,7,54.027142857142856
+2021,Management,Goa,1,52.75
+2021,Management,Gujarat,3,58.373333333333335
+2021,Management,Haryana,3,57.68
+2021,Management,Jharkhand,4,56.67
+2021,Management,Karnataka,3,61.26333333333333
+2021,Management,Kerala,1,73.34
+2021,Management,Madhya Pradesh,3,53.633333333333326
+2021,Management,Maharashtra,9,54.724444444444444
+2021,Management,Meghalaya,1,56.87
+2021,Management,Odisha,4,49.9125
+2021,Management,Punjab,5,48.354
+2021,Management,Rajasthan,3,49.23333333333333
+2021,Management,Tamil Nadu,7,52.61857142857143
+2021,Management,Telangana,2,50.93
+2021,Management,Uttar Pradesh,9,52.669999999999995
+2021,Management,Uttarakhand,4,52.629999999999995
+2021,Management,West Bengal,3,65.67333333333333
+2021,Medical,Andhra Pradesh,1,46.5
+2021,Medical,Chandigarh,2,67.26
+2021,Medical,Delhi,7,60.721428571428575
+2021,Medical,Haryana,1,50.96
+2021,Medical,Karnataka,9,54.791111111111114
+2021,Medical,Kerala,1,63.04
+2021,Medical,Maharashtra,4,50.665
+2021,Medical,Manipur,1,46.5
+2021,Medical,Odisha,4,51.445
+2021,Medical,Pondicherry,2,56.75
+2021,Medical,Punjab,1,53.13
+2021,Medical,Rajasthan,2,51.26
+2021,Medical,Tamil Nadu,10,56.213
+2021,Medical,Uttar Pradesh,4,65.71000000000001
+2021,Medical,West Bengal,1,51.69
+2021,Overall,Andhra Pradesh,3,45.69
+2021,Overall,Assam,4,50.7575
+2021,Overall,Bihar,1,47.67
+2021,Overall,Chandigarh,1,50.31
+2021,Overall,Delhi,7,56.971428571428575
+2021,Overall,Gujarat,3,47.02
+2021,Overall,Himachal Pradesh,1,43.93
+2021,Overall,Jammu and Kashmir,1,44.64
+2021,Overall,Jharkhand,1,53.88
+2021,Overall,Karnataka,5,58.379999999999995
+2021,Overall,Kerala,4,46.2325
+2021,Overall,Madhya Pradesh,2,50.894999999999996
+2021,Overall,Maharashtra,12,50.40833333333333
+2021,Overall,Meghalaya,1,42.79
+2021,Overall,Odisha,4,49.097500000000004
+2021,Overall,Pondicherry,1,43.1
+2021,Overall,Punjab,7,46.80142857142857
+2021,Overall,Rajasthan,3,48.166666666666664
+2021,Overall,Tamil Nadu,19,50.56947368421053
+2021,Overall,Telangana,4,52.365
+2021,Overall,Uttar Pradesh,8,54.11
+2021,Overall,Uttarakhand,1,71.4
+2021,Overall,West Bengal,7,54.611428571428576
+2021,Pharmacy,Andhra Pradesh,6,43.51833333333334
+2021,Pharmacy,Assam,2,52.31
+2021,Pharmacy,Chandigarh,1,77.99
+2021,Pharmacy,Chhattisgarh,2,42.485
+2021,Pharmacy,Delhi,2,64.3
+2021,Pharmacy,Goa,1,42.13
+2021,Pharmacy,Gujarat,4,54.115
+2021,Pharmacy,Haryana,3,50.42666666666667
+2021,Pharmacy,Himachal Pradesh,1,49.38
+2021,Pharmacy,Jharkhand,1,52.34
+2021,Pharmacy,Karnataka,7,49.691428571428574
+2021,Pharmacy,Maharashtra,12,49.855
+2021,Pharmacy,Punjab,8,51.38375
+2021,Pharmacy,Rajasthan,4,52.07
+2021,Pharmacy,Tamil Nadu,8,53.675
+2021,Pharmacy,Telangana,4,49.615
+2021,Pharmacy,Uttar Pradesh,6,49.06666666666666
+2021,Pharmacy,Uttarakhand,1,41.89
+2021,Pharmacy,West Bengal,2,44.685
+2021,Research,Assam,1,64.99
+2021,Research,Bihar,1,39.99
+2021,Research,Chandigarh,1,48.71
+2021,Research,Delhi,5,60.608000000000004
+2021,Research,Gujarat,1,44.14
+2021,Research,Jharkhand,1,52.4
+2021,Research,Karnataka,5,54.944
+2021,Research,Madhya Pradesh,2,45.01
+2021,Research,Maharashtra,6,58.458333333333336
+2021,Research,Odisha,2,45.489999999999995
+2021,Research,Punjab,3,41.556666666666665
+2021,Research,Rajasthan,1,44.76
+2021,Research,Tamil Nadu,8,51.65375
+2021,Research,Telangana,2,51.975
+2021,Research,Uttar Pradesh,4,56.1275
+2021,Research,Uttarakhand,1,66.5
+2021,Research,West Bengal,6,50.74166666666667
+2021,University,Andhra Pradesh,5,45.266000000000005
+2021,University,Assam,3,44.61000000000001
+2021,University,Chandigarh,1,51.59
+2021,University,Delhi,6,53.77333333333333
+2021,University,Goa,1,38.96
+2021,University,Gujarat,3,42.82
+2021,University,Haryana,3,39.903333333333336
+2021,University,Himachal Pradesh,1,39.53
+2021,University,Jammu and Kashmir,2,44.745000000000005
+2021,University,Jharkhand,1,39.86
+2021,University,Karnataka,10,48.684
+2021,University,Kerala,4,47.83
+2021,University,Maharashtra,12,47.23083333333333
+2021,University,Meghalaya,1,44.24
+2021,University,Odisha,3,48.06666666666666
+2021,University,Pondicherry,2,42.39
+2021,University,Punjab,5,45.158
+2021,University,Rajasthan,2,51.655
+2021,University,Tamil Nadu,19,48.46263157894737
+2021,University,Telangana,3,49.69
+2021,University,Uttar Pradesh,7,49.82714285714286
+2021,University,Uttarakhand,2,38.894999999999996
+2021,University,West Bengal,4,51.2825
+2022,Architecture,Andhra Pradesh,1,63.55
+2022,Architecture,Bihar,1,46.28
+2022,Architecture,Delhi,3,59.32333333333333
+2022,Architecture,Gujarat,1,51.54
+2022,Architecture,Himachal Pradesh,1,50.06
+2022,Architecture,Jammu and Kashmir,1,55.75
+2022,Architecture,Jharkhand,1,50.14
+2022,Architecture,Karnataka,3,55.14333333333334
+2022,Architecture,Kerala,2,66.78
+2022,Architecture,Madhya Pradesh,2,56.41
+2022,Architecture,Maharashtra,1,62.64
+2022,Architecture,Punjab,3,54.596666666666664
+2022,Architecture,Tamil Nadu,6,53.9
+2022,Architecture,Uttar Pradesh,1,57.44
+2022,Architecture,Uttarakhand,1,83.46
+2022,Architecture,West Bengal,2,69.795
+2022,College,Andhra Pradesh,1,52.38
+2022,College,Chandigarh,1,56.26
+2022,College,Delhi,32,61.5709375
+2022,College,Gujarat,1,55.33
+2022,College,Haryana,1,57.16
+2022,College,Karnataka,2,53.69
+2022,College,Kerala,17,55.15705882352941
+2022,College,Maharashtra,3,53.92333333333334
+2022,College,Mizoram,1,56.32
+2022,College,Pondicherry,2,52.81999999999999
+2022,College,Tamil Nadu,32,57.6134375
+2022,College,West Bengal,7,61.715714285714284
+2022,Dental,Andhra Pradesh,2,52.09
+2022,Dental,Delhi,2,64.23
+2022,Dental,Gujarat,2,50.815
+2022,Dental,Haryana,1,58.1
+2022,Dental,Karnataka,10,60.177
+2022,Dental,Kerala,1,51.71
+2022,Dental,Madhya Pradesh,1,48.85
+2022,Dental,Maharashtra,6,60.02166666666667
+2022,Dental,Odisha,2,57.485
+2022,Dental,Tamil Nadu,9,58.74555555555556
+2022,Dental,Uttar Pradesh,3,58.26333333333333
+2022,Dental,West Bengal,1,48.8
+2022,Engineering,Andhra Pradesh,4,45.7525
+2022,Engineering,Assam,2,63.80500000000001
+2022,Engineering,Bihar,2,51.215
+2022,Engineering,Chandigarh,2,40.815
+2022,Engineering,Chhattisgarh,1,45.71
+2022,Engineering,Delhi,6,55.37166666666667
+2022,Engineering,Goa,1,40.78
+2022,Engineering,Gujarat,2,52.94
+2022,Engineering,Haryana,2,45.22
+2022,Engineering,Himachal Pradesh,1,60.43
+2022,Engineering,Jammu and Kashmir,1,45.52
+2022,Engineering,Jharkhand,3,51.18
+2022,Engineering,Karnataka,9,46.05222222222223
+2022,Engineering,Kerala,3,51.31666666666666
+2022,Engineering,Madhya Pradesh,4,47.665
+2022,Engineering,Maharashtra,5,58.196000000000005
+2022,Engineering,Meghalaya,1,46.67
+2022,Engineering,Odisha,5,53.64
+2022,Engineering,Punjab,5,53.42
+2022,Engineering,Rajasthan,5,51.224000000000004
+2022,Engineering,Tamil Nadu,16,54.246875
+2022,Engineering,Telangana,5,51.58
+2022,Engineering,Tripura,1,41.92
+2022,Engineering,Uttar Pradesh,7,55.81428571428571
+2022,Engineering,Uttarakhand,3,56.333333333333336
+2022,Engineering,West Bengal,4,63.725
+2022,Law,Assam,1,49.27
+2022,Law,Chandigarh,1,45.21
+2022,Law,Delhi,4,58.1025
+2022,Law,Gujarat,1,63.52
+2022,Law,Haryana,1,46.93
+2022,Law,Jharkhand,1,49.84
+2022,Law,Karnataka,2,65.78
+2022,Law,Madhya Pradesh,1,54.28
+2022,Law,Maharashtra,1,73.73
+2022,Law,Odisha,3,57.94333333333333
+2022,Law,Punjab,3,52.66
+2022,Law,Rajasthan,1,62.35
+2022,Law,Sikkim,1,45.92
+2022,Law,Tamil Nadu,2,53.64
+2022,Law,Telangana,1,73.05
+2022,Law,Uttar Pradesh,3,55.0
+2022,Law,Uttarakhand,1,50.18
+2022,Law,West Bengal,2,68.995
+2022,Management,Andhra Pradesh,3,51.52
+2022,Management,Bihar,1,45.82
+2022,Management,Chandigarh,1,46.89
+2022,Management,Chhattisgarh,1,63.57
+2022,Management,Delhi,8,53.53375
+2022,Management,Goa,1,53.58
+2022,Management,Gujarat,6,53.931666666666665
+2022,Management,Haryana,5,53.965999999999994
+2022,Management,Himachal Pradesh,1,46.46
+2022,Management,Jammu and Kashmir,2,47.51
+2022,Management,Jharkhand,4,57.0925
+2022,Management,Karnataka,6,52.04833333333334
+2022,Management,Kerala,3,54.94333333333333
+2022,Management,Madhya Pradesh,2,59.19499999999999
+2022,Management,Maharashtra,10,54.685
+2022,Management,Meghalaya,1,57.84
+2022,Management,Odisha,4,49.625
+2022,Management,Punjab,5,50.452
+2022,Management,Rajasthan,4,47.93
+2022,Management,Tamil Nadu,11,51.78636363636363
+2022,Management,Telangana,3,47.56
+2022,Management,Uttar Pradesh,12,51.76666666666667
+2022,Management,Uttarakhand,4,55.3375
+2022,Management,West Bengal,3,64.26666666666667
+2022,Medical,Chandigarh,2,66.51
+2022,Medical,Chhattisgarh,1,47.44
+2022,Medical,Delhi,7,60.435714285714276
+2022,Medical,Gujarat,2,48.7
+2022,Medical,Haryana,1,52.81
+2022,Medical,Karnataka,6,58.32333333333333
+2022,Medical,Kerala,1,65.17
+2022,Medical,Maharashtra,4,52.7425
+2022,Medical,Manipur,1,48.21
+2022,Medical,Odisha,4,53.4975
+2022,Medical,Pondicherry,2,57.845
+2022,Medical,Punjab,2,51.105000000000004
+2022,Medical,Rajasthan,2,53.7
+2022,Medical,Tamil Nadu,8,59.06625
+2022,Medical,Uttar Pradesh,4,63.292500000000004
+2022,Medical,Uttarakhand,1,47.98
+2022,Medical,West Bengal,2,53.375
+2022,Overall,Andhra Pradesh,2,48.84
+2022,Overall,Assam,4,52.769999999999996
+2022,Overall,Bihar,1,49.47
+2022,Overall,Chandigarh,1,51.23
+2022,Overall,Delhi,7,62.402857142857144
+2022,Overall,Gujarat,2,50.82
+2022,Overall,Himachal Pradesh,1,51.05
+2022,Overall,Jammu and Kashmir,2,45.545
+2022,Overall,Jharkhand,1,53.87
+2022,Overall,Karnataka,7,55.63428571428572
+2022,Overall,Kerala,4,48.535
+2022,Overall,Madhya Pradesh,2,52.21
+2022,Overall,Maharashtra,12,52.737500000000004
+2022,Overall,Odisha,4,53.0
+2022,Overall,Pondicherry,1,49.71
+2022,Overall,Punjab,7,49.51142857142857
+2022,Overall,Rajasthan,4,47.995000000000005
+2022,Overall,Tamil Nadu,18,53.43888888888889
+2022,Overall,Telangana,4,55.935
+2022,Overall,Uttar Pradesh,8,55.96875
+2022,Overall,Uttarakhand,2,58.065
+2022,Overall,West Bengal,6,58.343333333333334
+2022,Pharmacy,Andhra Pradesh,9,42.41777777777778
+2022,Pharmacy,Assam,2,54.125
+2022,Pharmacy,Bihar,1,40.77
+2022,Pharmacy,Chandigarh,1,76.29
+2022,Pharmacy,Chhattisgarh,2,44.004999999999995
+2022,Pharmacy,Delhi,2,67.94
+2022,Pharmacy,Goa,1,44.72
+2022,Pharmacy,Gujarat,6,50.53666666666667
+2022,Pharmacy,Haryana,6,45.955000000000005
+2022,Pharmacy,Himachal Pradesh,1,51.04
+2022,Pharmacy,Jharkhand,1,51.18
+2022,Pharmacy,Karnataka,9,48.761111111111106
+2022,Pharmacy,Kerala,1,38.02
+2022,Pharmacy,Maharashtra,16,47.715
+2022,Pharmacy,Punjab,9,53.93333333333333
+2022,Pharmacy,Rajasthan,5,51.196
+2022,Pharmacy,Tamil Nadu,11,51.878181818181815
+2022,Pharmacy,Telangana,6,49.01333333333333
+2022,Pharmacy,Uttar Pradesh,9,46.10666666666666
+2022,Pharmacy,Uttarakhand,1,43.63
+2022,Pharmacy,West Bengal,2,48.675
+2022,Research,Assam,1,38.67
+2022,Research,Bihar,1,41.19
+2022,Research,Chandigarh,1,50.15
+2022,Research,Delhi,5,62.007999999999996
+2022,Research,Gujarat,1,47.3
+2022,Research,Himachal Pradesh,1,41.92
+2022,Research,Jharkhand,1,53.07
+2022,Research,Karnataka,3,59.906666666666666
+2022,Research,Madhya Pradesh,2,45.12
+2022,Research,Maharashtra,5,62.338
+2022,Research,Odisha,4,43.682500000000005
+2022,Research,Punjab,1,46.38
+2022,Research,Rajasthan,2,43.735
+2022,Research,Tamil Nadu,10,51.766
+2022,Research,Telangana,2,54.24
+2022,Research,Uttar Pradesh,5,54.715999999999994
+2022,Research,Uttarakhand,1,66.29
+2022,Research,West Bengal,4,55.075
+2022,University,Andhra Pradesh,5,46.37
+2022,University,Assam,2,49.0
+2022,University,Chandigarh,1,52.8
+2022,University,Delhi,6,55.88833333333333
+2022,University,Gujarat,1,47.61
+2022,University,Haryana,3,42.13666666666666
+2022,University,Himachal Pradesh,1,41.19
+2022,University,Jammu and Kashmir,2,48.150000000000006
+2022,University,Jharkhand,1,40.69
+2022,University,Karnataka,12,49.67583333333334
+2022,University,Kerala,4,48.942499999999995
+2022,University,Maharashtra,13,49.361538461538466
+2022,University,Meghalaya,1,45.44
+2022,University,Mizoram,1,43.24
+2022,University,Odisha,3,52.03
+2022,University,Pondicherry,2,44.835
+2022,University,Punjab,5,48.79600000000001
+2022,University,Rajasthan,2,52.66
+2022,University,Tamil Nadu,21,50.08238095238095
+2022,University,Telangana,2,57.39
+2022,University,Uttar Pradesh,6,53.471666666666664
+2022,University,Uttarakhand,2,44.655
+2022,University,West Bengal,4,52.745000000000005
+2023,Agriculture,Andhra Pradesh,2,46.2
+2023,Agriculture,Assam,1,50.35
+2023,Agriculture,Bihar,1,43.34
+2023,Agriculture,Delhi,1,83.16
+2023,Agriculture,Gujarat,2,46.735
+2023,Agriculture,Haryana,4,54.980000000000004
+2023,Agriculture,Himachal Pradesh,2,52.150000000000006
+2023,Agriculture,Jammu and Kashmir,1,59.5
+2023,Agriculture,Karnataka,4,47.01
+2023,Agriculture,Kerala,2,49.69
+2023,Agriculture,Maharashtra,2,51.96
+2023,Agriculture,Manipur,1,45.46
+2023,Agriculture,Odisha,1,47.6
+2023,Agriculture,Punjab,3,53.45666666666667
+2023,Agriculture,Tamil Nadu,5,51.748000000000005
+2023,Agriculture,Telangana,1,43.46
+2023,Agriculture,Uttar Pradesh,4,53.075
+2023,Agriculture,Uttarakhand,1,60.03
+2023,Agriculture,West Bengal,2,49.355000000000004
+2023,Architecture,Andhra Pradesh,1,55.72
+2023,Architecture,Bihar,1,54.79
+2023,Architecture,Chandigarh,1,51.38
+2023,Architecture,Delhi,2,65.13499999999999
+2023,Architecture,Gujarat,2,59.015
+2023,Architecture,Himachal Pradesh,1,51.54
+2023,Architecture,Jammu and Kashmir,1,51.94
+2023,Architecture,Jharkhand,1,54.43
+2023,Architecture,Karnataka,3,53.67666666666667
+2023,Architecture,Kerala,2,67.36
+2023,Architecture,Madhya Pradesh,2,57.815
+2023,Architecture,Maharashtra,1,61.89
+2023,Architecture,Odisha,1,63.76
+2023,Architecture,Punjab,3,55.96666666666667
+2023,Architecture,Rajasthan,1,60.23
+2023,Architecture,Tamil Nadu,3,58.73
+2023,Architecture,Uttar Pradesh,1,62.38
+2023,Architecture,Uttarakhand,1,83.21
+2023,Architecture,West Bengal,2,69.455
+2023,College,Chandigarh,1,55.94
+2023,College,Delhi,32,61.1953125
+2023,College,Gujarat,1,52.57
+2023,College,Haryana,1,54.85
+2023,College,Karnataka,2,54.224999999999994
+2023,College,Kerala,14,56.166428571428575
+2023,College,Maharashtra,3,54.199999999999996
+2023,College,Mizoram,1,59.15
+2023,College,Pondicherry,1,56.12
+2023,College,Tamil Nadu,35,57.889428571428574
+2023,College,Telangana,1,52.48
+2023,College,West Bengal,8,60.9875
+2023,Dental,Andhra Pradesh,1,54.41
+2023,Dental,Chandigarh,1,51.21
+2023,Dental,Delhi,2,66.05
+2023,Dental,Gujarat,2,52.745
+2023,Dental,Haryana,1,59.66
+2023,Dental,Karnataka,10,59.335
+2023,Dental,Kerala,1,54.49
+2023,Dental,Madhya Pradesh,1,51.63
+2023,Dental,Maharashtra,7,56.791428571428575
+2023,Dental,Odisha,2,58.620000000000005
+2023,Dental,Punjab,1,52.84
+2023,Dental,Tamil Nadu,7,63.17714285714286
+2023,Dental,Telangana,1,51.53
+2023,Dental,Uttar Pradesh,3,52.73333333333333
+2023,Engineering,Andhra Pradesh,4,47.3875
+2023,Engineering,Assam,2,62.69499999999999
+2023,Engineering,Bihar,2,52.595
+2023,Engineering,Chhattisgarh,2,46.775
+2023,Engineering,Delhi,7,56.67142857142857
+2023,Engineering,Goa,1,43.28
+2023,Engineering,Gujarat,2,55.33
+2023,Engineering,Haryana,2,45.94
+2023,Engineering,Himachal Pradesh,1,56.49
+2023,Engineering,Jammu and Kashmir,2,46.925
+2023,Engineering,Jharkhand,2,56.525
+2023,Engineering,Karnataka,7,49.05857142857143
+2023,Engineering,Kerala,3,53.39333333333334
+2023,Engineering,Madhya Pradesh,4,48.845
+2023,Engineering,Maharashtra,5,58.5
+2023,Engineering,Manipur,1,42.28
+2023,Engineering,Meghalaya,1,47.27
+2023,Engineering,Odisha,5,54.239999999999995
+2023,Engineering,Punjab,6,53.958333333333336
+2023,Engineering,Rajasthan,5,53.49400000000001
+2023,Engineering,Tamil Nadu,15,57.10333333333333
+2023,Engineering,Telangana,6,52.68166666666667
+2023,Engineering,Tripura,1,43.24
+2023,Engineering,Uttar Pradesh,7,57.15714285714286
+2023,Engineering,Uttarakhand,3,58.620000000000005
+2023,Engineering,West Bengal,4,62.7075
+2023,Law,Assam,1,46.6
+2023,Law,Delhi,4,62.92
+2023,Law,Gujarat,2,56.629999999999995
+2023,Law,Haryana,1,49.55
+2023,Law,Jharkhand,1,48.2
+2023,Law,Karnataka,3,62.14333333333334
+2023,Law,Madhya Pradesh,1,54.68
+2023,Law,Maharashtra,1,66.67
+2023,Law,Odisha,3,56.42000000000001
+2023,Law,Punjab,3,51.53
+2023,Law,Rajasthan,1,46.54
+2023,Law,Tamil Nadu,2,57.87
+2023,Law,Telangana,1,73.76
+2023,Law,Uttar Pradesh,4,54.66
+2023,Law,West Bengal,2,65.77000000000001
+2023,Management,Andhra Pradesh,3,52.28666666666667
+2023,Management,Assam,1,44.01
+2023,Management,Bihar,1,51.28
+2023,Management,Chandigarh,1,46.05
+2023,Management,Chhattisgarh,1,66.18
+2023,Management,Delhi,9,53.33555555555555
+2023,Management,Goa,1,56.28
+2023,Management,Gujarat,5,56.763999999999996
+2023,Management,Haryana,6,52.86333333333334
+2023,Management,Himachal Pradesh,1,43.26
+2023,Management,Jammu and Kashmir,1,54.17
+2023,Management,Jharkhand,4,57.585
+2023,Management,Karnataka,6,53.346666666666664
+2023,Management,Kerala,3,56.833333333333336
+2023,Management,Madhya Pradesh,2,60.540000000000006
+2023,Management,Maharashtra,9,58.3811111111111
+2023,Management,Meghalaya,1,59.12
+2023,Management,Odisha,5,50.82
+2023,Management,Punjab,5,53.038
+2023,Management,Rajasthan,4,51.035
+2023,Management,Tamil Nadu,10,52.914
+2023,Management,Telangana,3,47.846666666666664
+2023,Management,Uttar Pradesh,11,53.59
+2023,Management,Uttarakhand,4,56.9525
+2023,Management,West Bengal,3,62.626666666666665
+2023,Medical,Bihar,1,57.3
+2023,Medical,Chandigarh,2,68.22
+2023,Medical,Chhattisgarh,1,53.92
+2023,Medical,Delhi,7,62.542857142857144
+2023,Medical,Gujarat,2,51.16
+2023,Medical,Haryana,2,52.3
+2023,Medical,Karnataka,6,60.335
+2023,Medical,Kerala,2,58.574999999999996
+2023,Medical,Madhya Pradesh,1,53.94
+2023,Medical,Maharashtra,2,59.915
+2023,Medical,Odisha,3,59.56666666666666
+2023,Medical,Pondicherry,2,61.48
+2023,Medical,Punjab,2,53.605000000000004
+2023,Medical,Rajasthan,2,56.775
+2023,Medical,Tamil Nadu,8,62.06
+2023,Medical,Uttar Pradesh,4,64.805
+2023,Medical,Uttarakhand,1,60.06
+2023,Medical,West Bengal,2,54.83
+2023,Overall,Andhra Pradesh,2,50.25
+2023,Overall,Assam,2,58.45
+2023,Overall,Bihar,1,49.79
+2023,Overall,Chandigarh,1,53.31
+2023,Overall,Delhi,7,63.777142857142856
+2023,Overall,Gujarat,2,53.4
+2023,Overall,Himachal Pradesh,1,49.03
+2023,Overall,Jammu and Kashmir,1,50.77
+2023,Overall,Jharkhand,1,53.86
+2023,Overall,Karnataka,7,56.24571428571429
+2023,Overall,Kerala,4,51.6375
+2023,Overall,Madhya Pradesh,2,54.29
+2023,Overall,Maharashtra,11,53.98909090909091
+2023,Overall,Odisha,4,54.53
+2023,Overall,Pondicherry,1,55.41
+2023,Overall,Punjab,8,51.9075
+2023,Overall,Rajasthan,4,51.19
+2023,Overall,Tamil Nadu,18,55.251666666666665
+2023,Overall,Telangana,4,56.625
+2023,Overall,Uttar Pradesh,8,57.3625
+2023,Overall,Uttarakhand,4,53.795
+2023,Overall,West Bengal,7,56.05714285714286
+2023,Pharmacy,Andhra Pradesh,9,45.614444444444445
+2023,Pharmacy,Assam,2,60.58
+2023,Pharmacy,Bihar,1,51.22
+2023,Pharmacy,Chandigarh,1,72.34
+2023,Pharmacy,Chhattisgarh,1,51.27
+2023,Pharmacy,Delhi,2,68.19
+2023,Pharmacy,Goa,1,44.23
+2023,Pharmacy,Gujarat,7,50.21142857142858
+2023,Pharmacy,Haryana,4,50.5175
+2023,Pharmacy,Himachal Pradesh,1,51.74
+2023,Pharmacy,Jharkhand,1,56.72
+2023,Pharmacy,Karnataka,7,53.652857142857144
+2023,Pharmacy,Maharashtra,16,48.311875
+2023,Pharmacy,Punjab,10,54.436
+2023,Pharmacy,Rajasthan,5,56.3
+2023,Pharmacy,Sikkim,1,38.46
+2023,Pharmacy,Tamil Nadu,10,54.013
+2023,Pharmacy,Telangana,5,49.480000000000004
+2023,Pharmacy,Uttar Pradesh,11,49.78272727272727
+2023,Pharmacy,Uttarakhand,1,45.09
+2023,Pharmacy,West Bengal,4,48.765
+2023,Research,Assam,1,64.68
+2023,Research,Chandigarh,1,50.65
+2023,Research,Delhi,5,63.767999999999994
+2023,Research,Gujarat,1,50.84
+2023,Research,Jharkhand,1,52.8
+2023,Research,Karnataka,5,56.004
+2023,Research,Madhya Pradesh,1,53.71
+2023,Research,Maharashtra,5,60.354
+2023,Research,Odisha,3,46.169999999999995
+2023,Research,Punjab,4,45.4325
+2023,Research,Rajasthan,2,47.845
+2023,Research,Tamil Nadu,9,55.714444444444446
+2023,Research,Telangana,2,55.629999999999995
+2023,Research,Uttar Pradesh,5,57.358000000000004
+2023,Research,Uttarakhand,1,66.52
+2023,Research,West Bengal,4,56.2575
+2023,University,Andhra Pradesh,4,49.785
+2023,University,Assam,2,45.400000000000006
+2023,University,Chandigarh,1,54.86
+2023,University,Delhi,7,55.434285714285714
+2023,University,Gujarat,1,47.82
+2023,University,Haryana,4,43.64
+2023,University,Himachal Pradesh,1,45.76
+2023,University,Jammu and Kashmir,2,50.33
+2023,University,Jharkhand,1,46.12
+2023,University,Karnataka,10,52.849000000000004
+2023,University,Kerala,4,51.957499999999996
+2023,University,Maharashtra,10,51.595000000000006
+2023,University,Meghalaya,1,44.95
+2023,University,Mizoram,1,45.18
+2023,University,Odisha,3,54.623333333333335
+2023,University,Pondicherry,1,45.14
+2023,University,Punjab,6,51.01833333333334
+2023,University,Rajasthan,2,53.3
+2023,University,Tamil Nadu,22,51.83636363636364
+2023,University,Telangana,3,53.093333333333334
+2023,University,Uttar Pradesh,7,53.74428571428571
+2023,University,Uttarakhand,3,47.60333333333333
+2023,University,West Bengal,4,53.62
+2024,Agriculture,Andhra Pradesh,2,48.325
+2024,Agriculture,Assam,1,55.67
+2024,Agriculture,Bihar,2,46.815
+2024,Agriculture,Chhattisgarh,1,44.14
+2024,Agriculture,Delhi,1,87.98
+2024,Agriculture,Gujarat,2,48.295
+2024,Agriculture,Haryana,4,58.3675
+2024,Agriculture,Himachal Pradesh,2,54.61
+2024,Agriculture,Jammu and Kashmir,2,57.474999999999994
+2024,Agriculture,Karnataka,2,54.825
+2024,Agriculture,Kerala,2,51.57
+2024,Agriculture,Maharashtra,1,61.37
+2024,Agriculture,Manipur,1,47.53
+2024,Agriculture,Odisha,1,55.65
+2024,Agriculture,Punjab,3,57.053333333333335
+2024,Agriculture,Tamil Nadu,6,52.98666666666667
+2024,Agriculture,Telangana,1,44.73
+2024,Agriculture,Uttar Pradesh,2,68.03999999999999
+2024,Agriculture,Uttarakhand,1,61.77
+2024,Agriculture,West Bengal,3,49.673333333333325
+2024,Architecture,Andhra Pradesh,2,54.695
+2024,Architecture,Bihar,1,54.19
+2024,Architecture,Chandigarh,1,52.6
+2024,Architecture,Chhattisgarh,1,50.63
+2024,Architecture,Delhi,3,62.64666666666667
+2024,Architecture,Gujarat,3,58.15
+2024,Architecture,Himachal Pradesh,1,52.58
+2024,Architecture,Jammu and Kashmir,1,52.59
+2024,Architecture,Jharkhand,1,57.21
+2024,Architecture,Karnataka,4,53.9325
+2024,Architecture,Kerala,2,68.955
+2024,Architecture,Madhya Pradesh,2,61.07
+2024,Architecture,Maharashtra,1,63.05
+2024,Architecture,Odisha,1,64.88
+2024,Architecture,Punjab,3,56.096666666666664
+2024,Architecture,Rajasthan,2,56.195
+2024,Architecture,Tamil Nadu,6,56.10333333333333
+2024,Architecture,Uttar Pradesh,1,61.01
+2024,Architecture,Uttarakhand,1,84.92
+2024,Architecture,West Bengal,3,68.37666666666667
+2024,College,Chandigarh,2,55.21
+2024,College,Delhi,27,62.160740740740735
+2024,College,Karnataka,4,54.86
+2024,College,Kerala,16,55.8725
+2024,College,Maharashtra,4,54.035
+2024,College,Mizoram,1,58.24
+2024,College,Pondicherry,1,53.8
+2024,College,Rajasthan,1,53.46
+2024,College,Tamil Nadu,37,57.56513513513513
+2024,College,West Bengal,7,62.51571428571429
+2024,Dental,Chandigarh,1,52.99
+2024,Dental,Delhi,2,69.38499999999999
+2024,Dental,Gujarat,1,51.6
+2024,Dental,Haryana,2,51.83
+2024,Dental,Karnataka,10,59.14300000000001
+2024,Dental,Kerala,1,53.91
+2024,Dental,Maharashtra,6,56.98500000000001
+2024,Dental,Odisha,2,58.575
+2024,Dental,Pondicherry,1,51.39
+2024,Dental,Punjab,1,52.72
+2024,Dental,Tamil Nadu,9,59.91777777777778
+2024,Dental,Telangana,1,49.38
+2024,Dental,Uttar Pradesh,3,61.126666666666665
+2024,Engineering,Andhra Pradesh,4,49.9625
+2024,Engineering,Assam,2,64.73
+2024,Engineering,Bihar,2,55.34
+2024,Engineering,Chhattisgarh,2,48.84
+2024,Engineering,Delhi,7,58.26714285714286
+2024,Engineering,Gujarat,2,57.230000000000004
+2024,Engineering,Haryana,1,46.79
+2024,Engineering,Himachal Pradesh,2,52.629999999999995
+2024,Engineering,Jammu and Kashmir,2,49.144999999999996
+2024,Engineering,Jharkhand,2,59.504999999999995
+2024,Engineering,Karnataka,9,48.99666666666666
+2024,Engineering,Kerala,3,54.85333333333333
+2024,Engineering,Madhya Pradesh,2,56.79
+2024,Engineering,Maharashtra,5,59.234
+2024,Engineering,Meghalaya,1,49.82
+2024,Engineering,Odisha,5,55.888
+2024,Engineering,Pondicherry,1,44.38
+2024,Engineering,Punjab,7,54.291428571428575
+2024,Engineering,Rajasthan,5,55.620000000000005
+2024,Engineering,Tamil Nadu,14,59.38285714285714
+2024,Engineering,Telangana,6,54.48833333333334
+2024,Engineering,Tripura,1,46.69
+2024,Engineering,Uttar Pradesh,8,57.3575
+2024,Engineering,Uttarakhand,3,61.870000000000005
+2024,Engineering,West Bengal,4,63.2325
+2024,Innovation,Delhi,1,
+2024,Innovation,Himachal Pradesh,1,
+2024,Innovation,Karnataka,1,
+2024,Innovation,Maharashtra,1,
+2024,Innovation,Tamil Nadu,2,
+2024,Innovation,Telangana,1,
+2024,Innovation,Uttar Pradesh,1,
+2024,Innovation,Uttarakhand,1,
+2024,Innovation,West Bengal,1,
+2024,Law,Andhra Pradesh,3,51.72666666666667
+2024,Law,Assam,1,53.39
+2024,Law,Bihar,1,51.7
+2024,Law,Delhi,4,64.88250000000001
+2024,Law,Gujarat,1,69.56
+2024,Law,Haryana,1,51.68
+2024,Law,Jharkhand,1,55.52
+2024,Law,Karnataka,3,66.64666666666666
+2024,Law,Kerala,1,47.96
+2024,Law,Madhya Pradesh,1,55.64
+2024,Law,Maharashtra,3,59.25
+2024,Law,Odisha,3,61.163333333333334
+2024,Law,Punjab,3,54.50666666666667
+2024,Law,Rajasthan,1,52.23
+2024,Law,Tamil Nadu,2,61.114999999999995
+2024,Law,Telangana,2,63.459999999999994
+2024,Law,Uttar Pradesh,5,58.802
+2024,Law,Uttarakhand,1,52.92
+2024,Law,West Bengal,3,65.26666666666667
+2024,Management,Andhra Pradesh,3,49.76333333333334
+2024,Management,Assam,1,43.48
+2024,Management,Bihar,1,56.27
+2024,Management,Chandigarh,1,44.7
+2024,Management,Chhattisgarh,1,64.4
+2024,Management,Delhi,9,54.92888888888889
+2024,Management,Goa,1,55.67
+2024,Management,Gujarat,5,57.576
+2024,Management,Haryana,4,57.839999999999996
+2024,Management,Himachal Pradesh,1,50.92
+2024,Management,Jammu and Kashmir,1,54.64
+2024,Management,Jharkhand,4,56.795
+2024,Management,Karnataka,5,55.67
+2024,Management,Kerala,4,54.215
+2024,Management,Madhya Pradesh,2,60.0
+2024,Management,Maharashtra,9,58.547777777777775
+2024,Management,Meghalaya,1,60.49
+2024,Management,Odisha,5,51.054
+2024,Management,Punjab,5,53.61
+2024,Management,Rajasthan,4,51.432500000000005
+2024,Management,Tamil Nadu,11,51.70636363636363
+2024,Management,Telangana,4,46.03
+2024,Management,Uttar Pradesh,11,53.28818181818181
+2024,Management,Uttarakhand,4,56.86
+2024,Management,West Bengal,3,62.35666666666666
+2024,Medical,Bihar,1,58.24
+2024,Medical,Chandigarh,2,68.68
+2024,Medical,Chhattisgarh,1,55.27
+2024,Medical,Delhi,7,63.47428571428571
+2024,Medical,Gujarat,1,51.77
+2024,Medical,Haryana,2,53.620000000000005
+2024,Medical,Karnataka,6,60.208333333333336
+2024,Medical,Kerala,2,57.989999999999995
+2024,Medical,Madhya Pradesh,1,57.66
+2024,Medical,Maharashtra,3,60.63999999999999
+2024,Medical,Odisha,3,61.28333333333333
+2024,Medical,Pondicherry,2,60.879999999999995
+2024,Medical,Punjab,2,52.72
+2024,Medical,Rajasthan,2,57.239999999999995
+2024,Medical,Tamil Nadu,7,64.07000000000001
+2024,Medical,Telangana,1,50.99
+2024,Medical,Uttar Pradesh,4,64.9075
+2024,Medical,Uttarakhand,1,63.16
+2024,Medical,West Bengal,2,56.17
+2024,Overall,Andhra Pradesh,3,52.72333333333333
+2024,Overall,Assam,3,56.95666666666667
+2024,Overall,Bihar,2,49.394999999999996
+2024,Overall,Chandigarh,1,52.99
+2024,Overall,Delhi,7,65.59
+2024,Overall,Gujarat,2,53.465
+2024,Overall,Himachal Pradesh,2,50.315
+2024,Overall,Jammu and Kashmir,2,50.769999999999996
+2024,Overall,Jharkhand,1,56.97
+2024,Overall,Karnataka,6,59.42666666666667
+2024,Overall,Kerala,4,53.89
+2024,Overall,Madhya Pradesh,2,54.125
+2024,Overall,Maharashtra,11,55.63727272727272
+2024,Overall,Odisha,3,59.23666666666666
+2024,Overall,Pondicherry,1,55.51
+2024,Overall,Punjab,6,54.16
+2024,Overall,Rajasthan,4,53.364999999999995
+2024,Overall,Tamil Nadu,18,56.81333333333333
+2024,Overall,Telangana,4,58.25
+2024,Overall,Uttar Pradesh,8,59.0475
+2024,Overall,Uttarakhand,4,56.5925
+2024,Overall,West Bengal,6,58.526666666666664
+2024,Pharmacy,Andhra Pradesh,6,47.22666666666667
+2024,Pharmacy,Assam,2,60.489999999999995
+2024,Pharmacy,Bihar,1,56.4
+2024,Pharmacy,Chandigarh,1,72.76
+2024,Pharmacy,Chhattisgarh,1,49.65
+2024,Pharmacy,Delhi,2,74.37
+2024,Pharmacy,Goa,1,40.69
+2024,Pharmacy,Gujarat,8,49.9325
+2024,Pharmacy,Haryana,4,50.3225
+2024,Pharmacy,Himachal Pradesh,1,57.07
+2024,Pharmacy,Jharkhand,1,56.75
+2024,Pharmacy,Karnataka,8,52.3975
+2024,Pharmacy,Maharashtra,16,49.645625
+2024,Pharmacy,Punjab,9,58.66444444444445
+2024,Pharmacy,Rajasthan,5,58.44200000000001
+2024,Pharmacy,Tamil Nadu,12,53.02333333333333
+2024,Pharmacy,Telangana,5,49.472
+2024,Pharmacy,Uttar Pradesh,11,51.556363636363635
+2024,Pharmacy,Uttarakhand,2,44.41
+2024,Pharmacy,West Bengal,4,51.8075
+2024,Research,Assam,1,64.94
+2024,Research,Chandigarh,1,49.73
+2024,Research,Delhi,6,61.61333333333334
+2024,Research,Gujarat,1,50.78
+2024,Research,Jharkhand,1,54.77
+2024,Research,Karnataka,5,55.988
+2024,Research,Madhya Pradesh,1,52.7
+2024,Research,Maharashtra,5,61.352
+2024,Research,Odisha,3,46.556666666666665
+2024,Research,Punjab,4,45.3475
+2024,Research,Rajasthan,1,53.06
+2024,Research,Tamil Nadu,9,55.96333333333334
+2024,Research,Telangana,2,55.93
+2024,Research,Uttar Pradesh,5,58.124
+2024,Research,Uttarakhand,1,66.78
+2024,Research,West Bengal,4,55.845
+2024,University,Andhra Pradesh,5,52.162
+2024,University,Assam,2,51.935
+2024,University,Chandigarh,1,55.11
+2024,University,Delhi,7,57.878571428571426
+2024,University,Gujarat,1,48.04
+2024,University,Haryana,2,47.565
+2024,University,Himachal Pradesh,1,48.82
+2024,University,Jammu and Kashmir,2,53.379999999999995
+2024,University,Jharkhand,1,47.31
+2024,University,Karnataka,11,54.21545454545455
+2024,University,Kerala,4,54.06
+2024,University,Maharashtra,10,54.208000000000006
+2024,University,Mizoram,1,48.03
+2024,University,Odisha,2,62.57
+2024,University,Pondicherry,1,49.14
+2024,University,Punjab,7,52.05714285714286
+2024,University,Rajasthan,3,52.97
+2024,University,Tamil Nadu,22,54.052727272727275
+2024,University,Telangana,3,55.06333333333333
+2024,University,Uttar Pradesh,9,53.75444444444444
+2024,University,Uttarakhand,3,50.89000000000001
+2024,University,West Bengal,2,63.245000000000005
+2025,Agriculture,Andhra Pradesh,2,48.16
+2025,Agriculture,Assam,1,57.2
+2025,Agriculture,Bihar,2,53.15
+2025,Agriculture,Chhattisgarh,1,50.6
+2025,Agriculture,Delhi,1,89.23
+2025,Agriculture,Gujarat,2,50.400000000000006
+2025,Agriculture,Haryana,4,59.995000000000005
+2025,Agriculture,Himachal Pradesh,2,52.855000000000004
+2025,Agriculture,Jammu and Kashmir,2,60.045
+2025,Agriculture,Karnataka,2,54.57
+2025,Agriculture,Kerala,2,54.725
+2025,Agriculture,Maharashtra,1,63.92
+2025,Agriculture,Manipur,1,52.97
+2025,Agriculture,Odisha,1,56.61
+2025,Agriculture,Punjab,3,61.153333333333336
+2025,Agriculture,Tamil Nadu,5,55.081999999999994
+2025,Agriculture,Telangana,1,52.97
+2025,Agriculture,Uttar Pradesh,4,62.5525
+2025,Agriculture,Uttarakhand,1,61.56
+2025,Agriculture,West Bengal,2,52.305
+2025,Architecture,Andhra Pradesh,1,58.49
+2025,Architecture,Bihar,1,60.16
+2025,Architecture,Chhattisgarh,1,51.3
+2025,Architecture,Delhi,3,61.086666666666666
+2025,Architecture,Gujarat,3,55.86000000000001
+2025,Architecture,Himachal Pradesh,1,54.0
+2025,Architecture,Jammu and Kashmir,1,56.47
+2025,Architecture,Jharkhand,1,56.76
+2025,Architecture,Karnataka,5,53.312
+2025,Architecture,Kerala,2,68.76
+2025,Architecture,Madhya Pradesh,2,59.745
+2025,Architecture,Maharashtra,1,61.22
+2025,Architecture,Odisha,1,65.72
+2025,Architecture,Punjab,3,54.656666666666666
+2025,Architecture,Rajasthan,2,58.655
+2025,Architecture,Tamil Nadu,5,56.67
+2025,Architecture,Uttar Pradesh,2,51.525
+2025,Architecture,Uttarakhand,1,83.95
+2025,Architecture,West Bengal,4,65.135
+2025,College,Chandigarh,2,59.81
+2025,College,Delhi,32,65.7578125
+2025,College,Karnataka,4,57.855000000000004
+2025,College,Kerala,18,58.26777777777777
+2025,College,Maharashtra,3,56.089999999999996
+2025,College,Mizoram,1,59.88
+2025,College,Pondicherry,1,59.58
+2025,College,Tamil Nadu,33,60.73
+2025,College,West Bengal,6,68.33666666666666
+2025,Dental,Delhi,3,73.72333333333334
+2025,Dental,Gujarat,1,54.13
+2025,Dental,Haryana,2,58.445
+2025,Dental,Karnataka,10,59.589
+2025,Dental,Kerala,2,53.849999999999994
+2025,Dental,Maharashtra,5,59.974000000000004
+2025,Dental,Odisha,2,59.730000000000004
+2025,Dental,Pondicherry,1,57.05
+2025,Dental,Punjab,1,56.96
+2025,Dental,Tamil Nadu,9,61.63444444444445
+2025,Dental,Uttar Pradesh,3,61.57333333333333
+2025,Engineering,Andhra Pradesh,4,51.83
+2025,Engineering,Assam,2,64.07499999999999
+2025,Engineering,Bihar,2,59.205
+2025,Engineering,Chandigarh,1,46.9
+2025,Engineering,Chhattisgarh,2,48.980000000000004
+2025,Engineering,Delhi,6,60.26
+2025,Engineering,Gujarat,3,53.01666666666667
+2025,Engineering,Haryana,1,47.98
+2025,Engineering,Himachal Pradesh,2,54.09
+2025,Engineering,Jammu and Kashmir,2,51.655
+2025,Engineering,Jharkhand,3,56.300000000000004
+2025,Engineering,Karnataka,7,51.787142857142854
+2025,Engineering,Kerala,3,55.56333333333333
+2025,Engineering,Madhya Pradesh,3,53.72
+2025,Engineering,Maharashtra,6,58.11666666666667
+2025,Engineering,Meghalaya,1,48.21
+2025,Engineering,Odisha,5,58.565999999999995
+2025,Engineering,Pondicherry,1,45.83
+2025,Engineering,Punjab,7,55.174285714285716
+2025,Engineering,Rajasthan,5,57.77
+2025,Engineering,Tamil Nadu,14,59.846428571428575
+2025,Engineering,Telangana,6,55.845
+2025,Engineering,Uttar Pradesh,7,59.959999999999994
+2025,Engineering,Uttarakhand,3,62.56333333333333
+2025,Engineering,West Bengal,4,63.2
+2025,Innovation,Delhi,1,
+2025,Innovation,Himachal Pradesh,1,
+2025,Innovation,Karnataka,1,
+2025,Innovation,Maharashtra,1,
+2025,Innovation,Tamil Nadu,2,
+2025,Innovation,Telangana,1,
+2025,Innovation,Uttar Pradesh,1,
+2025,Innovation,Uttarakhand,1,
+2025,Innovation,West Bengal,1,
+2025,Law,Andhra Pradesh,2,58.19
+2025,Law,Assam,1,53.39
+2025,Law,Bihar,2,60.620000000000005
+2025,Law,Delhi,3,68.81333333333333
+2025,Law,Gujarat,2,64.965
+2025,Law,Haryana,1,53.22
+2025,Law,Himachal Pradesh,1,53.49
+2025,Law,Jharkhand,1,55.81
+2025,Law,Karnataka,3,67.39999999999999
+2025,Law,Kerala,1,65.19
+2025,Law,Madhya Pradesh,1,57.64
+2025,Law,Maharashtra,2,65.30499999999999
+2025,Law,Odisha,3,64.68666666666667
+2025,Law,Punjab,3,54.65
+2025,Law,Rajasthan,1,54.83
+2025,Law,Tamil Nadu,3,61.39666666666667
+2025,Law,Telangana,2,67.39
+2025,Law,Uttar Pradesh,5,60.076
+2025,Law,Uttarakhand,1,61.45
+2025,Law,West Bengal,2,76.74000000000001
+2025,Management,Andhra Pradesh,2,54.92
+2025,Management,Bihar,1,59.65
+2025,Management,Chandigarh,1,46.31
+2025,Management,Chhattisgarh,1,65.03
+2025,Management,Delhi,9,55.623333333333335
+2025,Management,Goa,1,55.27
+2025,Management,Gujarat,5,59.227999999999994
+2025,Management,Haryana,4,59.262499999999996
+2025,Management,Himachal Pradesh,1,54.03
+2025,Management,Jammu and Kashmir,1,58.5
+2025,Management,Jharkhand,4,58.2475
+2025,Management,Karnataka,5,58.05800000000001
+2025,Management,Kerala,4,55.309999999999995
+2025,Management,Madhya Pradesh,2,60.99
+2025,Management,Maharashtra,9,60.05777777777777
+2025,Management,Meghalaya,1,57.7
+2025,Management,Odisha,5,52.224000000000004
+2025,Management,Punjab,5,53.760000000000005
+2025,Management,Rajasthan,5,51.14
+2025,Management,Tamil Nadu,12,53.98333333333333
+2025,Management,Telangana,3,49.75333333333333
+2025,Management,Uttar Pradesh,12,54.47833333333333
+2025,Management,Uttarakhand,4,58.955
+2025,Management,West Bengal,3,66.57666666666667
+2025,Medical,Bihar,1,59.24
+2025,Medical,Chandigarh,2,69.625
+2025,Medical,Chhattisgarh,1,58.44
+2025,Medical,Delhi,7,62.392857142857146
+2025,Medical,Gujarat,2,51.995000000000005
+2025,Medical,Haryana,1,56.68
+2025,Medical,Karnataka,7,58.73285714285714
+2025,Medical,Kerala,1,63.36
+2025,Medical,Madhya Pradesh,1,60.15
+2025,Medical,Maharashtra,2,63.769999999999996
+2025,Medical,Odisha,3,63.01333333333333
+2025,Medical,Pondicherry,2,62.86
+2025,Medical,Punjab,2,53.56
+2025,Medical,Rajasthan,2,57.935
+2025,Medical,Tamil Nadu,8,62.973749999999995
+2025,Medical,Telangana,1,51.46
+2025,Medical,Uttar Pradesh,4,66.9325
+2025,Medical,Uttarakhand,1,65.02
+2025,Medical,West Bengal,2,56.805
+2025,Overall,Andhra Pradesh,2,56.305
+2025,Overall,Assam,3,57.48333333333333
+2025,Overall,Bihar,1,57.63
+2025,Overall,Chandigarh,2,56.9
+2025,Overall,Delhi,8,65.19625
+2025,Overall,Gujarat,1,57.01
+2025,Overall,Himachal Pradesh,1,54.52
+2025,Overall,Jammu and Kashmir,3,51.39000000000001
+2025,Overall,Jharkhand,1,58.33
+2025,Overall,Karnataka,6,61.405
+2025,Overall,Kerala,4,54.8825
+2025,Overall,Madhya Pradesh,2,56.06
+2025,Overall,Maharashtra,11,55.695454545454545
+2025,Overall,Odisha,5,55.977999999999994
+2025,Overall,Pondicherry,1,56.23
+2025,Overall,Punjab,6,54.95333333333334
+2025,Overall,Rajasthan,4,54.8725
+2025,Overall,Tamil Nadu,17,57.822941176470586
+2025,Overall,Telangana,5,57.148
+2025,Overall,Uttar Pradesh,9,58.977777777777774
+2025,Overall,Uttarakhand,4,57.29
+2025,Overall,West Bengal,4,61.82
+2025,Pharmacy,Andhra Pradesh,5,50.965999999999994
+2025,Pharmacy,Assam,3,54.93
+2025,Pharmacy,Bihar,2,53.334999999999994
+2025,Pharmacy,Chandigarh,1,76.39
+2025,Pharmacy,Chhattisgarh,1,53.36
+2025,Pharmacy,Delhi,2,76.41499999999999
+2025,Pharmacy,Goa,1,42.7
+2025,Pharmacy,Gujarat,7,53.542857142857144
+2025,Pharmacy,Haryana,6,50.181666666666665
+2025,Pharmacy,Himachal Pradesh,1,53.81
+2025,Pharmacy,Jharkhand,1,59.97
+2025,Pharmacy,Karnataka,8,54.06625
+2025,Pharmacy,Madhya Pradesh,1,42.21
+2025,Pharmacy,Maharashtra,12,53.185
+2025,Pharmacy,Punjab,9,60.04666666666666
+2025,Pharmacy,Rajasthan,6,59.01166666666666
+2025,Pharmacy,Tamil Nadu,11,53.842727272727274
+2025,Pharmacy,Telangana,2,60.415
+2025,Pharmacy,Uttar Pradesh,14,51.56857142857143
+2025,Pharmacy,Uttarakhand,3,44.31666666666666
+2025,Pharmacy,West Bengal,5,49.948
+2025,Research,Assam,1,64.18
+2025,Research,Bihar,1,48.75
+2025,Research,Chandigarh,1,49.47
+2025,Research,Delhi,6,61.975
+2025,Research,Gujarat,1,49.61
+2025,Research,Jharkhand,1,54.28
+2025,Research,Karnataka,3,62.663333333333334
+2025,Research,Madhya Pradesh,1,55.52
+2025,Research,Maharashtra,5,60.684000000000005
+2025,Research,Odisha,3,48.18
+2025,Research,Punjab,4,48.195
+2025,Research,Rajasthan,2,50.865
+2025,Research,Tamil Nadu,7,59.817142857142855
+2025,Research,Telangana,2,55.815
+2025,Research,Uttar Pradesh,6,59.06
+2025,Research,Uttarakhand,2,56.864999999999995
+2025,Research,West Bengal,4,54.8475
+2025,University,Andhra Pradesh,5,53.2
+2025,University,Assam,3,51.32
+2025,University,Chandigarh,1,56.88
+2025,University,Delhi,8,59.30375
+2025,University,Gujarat,1,49.74
+2025,University,Haryana,2,48.185
+2025,University,Himachal Pradesh,1,50.16
+2025,University,Jammu and Kashmir,3,53.28
+2025,University,Jharkhand,1,48.25
+2025,University,Karnataka,9,57.120000000000005
+2025,University,Kerala,3,57.06999999999999
+2025,University,Maharashtra,11,54.1090909090909
+2025,University,Mizoram,1,49.21
+2025,University,Odisha,2,63.004999999999995
+2025,University,Pondicherry,1,50.46
+2025,University,Punjab,7,53.71857142857143
+2025,University,Rajasthan,4,54.4825
+2025,University,Tamil Nadu,20,55.359
+2025,University,Telangana,4,55.332499999999996
+2025,University,Uttar Pradesh,9,55.53111111111111
+2025,University,Uttarakhand,2,54.18
+2025,University,West Bengal,2,60.295
