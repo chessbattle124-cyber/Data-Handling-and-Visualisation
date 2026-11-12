@@ -1,0 +1,86 @@
+# Annexure A — sample question coverage
+
+**Supported with the uploaded dataset: 26/40. Not supported: 14/40.**
+
+The status reflects the actual columns in `nirf_cleaned.csv`. Unsupported questions require a separate dataset containing TLR, RPC, Graduation Outcomes (GO), Outreach and Inclusivity (OI), and Perception (PR) scores. No proxy values have been fabricated.
+
+### 1. Time-series and trend analysis
+- **How has the overall NIRF ranking of a selected institution changed from 2017 to 2025?** — Supported. Institution rank history by year.
+### 1. Time-series and trend analysis
+- **Which institutions have shown the greatest improvement in rank over the nine years?** — Supported. Rank gain from 2017 to 2025 for institutions present in both years.
+### 1. Time-series and trend analysis
+- **Which institutions have experienced the largest decline in ranking?** — Supported. Rank loss from 2017 to 2025 for institutions present in both years.
+### 1. Time-series and trend analysis
+- **How has the average score of institutions changed over time?** — Supported. Year-wise average score trend.
+### 1. Time-series and trend analysis
+- **Which institutions have remained consistently in the top 10 across multiple years?** — Supported. Count of years in top 10 by category.
+### 2. Geospatial and regional analysis
+- **Which states have the highest number of institutions in the top 100?** — Supported. Top-100 institution count by state, within a selected category.
+### 2. Geospatial and regional analysis
+- **How is the geographical distribution of top-ranked institutions changing from 2017 to 2025?** — Supported. Year-wise top-100 state representation trend.
+### 2. Geospatial and regional analysis
+- **Which states have improved their representation in the top 100 over time?** — Supported. Difference in top-100 institution counts by state between selected years.
+### 2. Geospatial and regional analysis
+- **How do the rankings of institutions in Karnataka compare with those in Tamil Nadu?** — Supported. Karnataka vs Tamil Nadu score/count comparison; choose a category for like-for-like ranking.
+### 2. Geospatial and regional analysis
+- **Which states have produced the largest number of newly appearing institutions in the rankings?** — Supported. Institutions present in later year but absent in previous year, grouped by state.
+### 3. Univariate analysis
+- **What is the distribution of NIRF scores for a selected year?** — Supported. Score histogram.
+### 3. Univariate analysis
+- **What is the distribution of overall ranks across all institutions?** — Supported. Rank-band distribution.
+### 3. Univariate analysis
+- **What is the average, median, minimum, and maximum score in a given year?** — Supported. Descriptive score statistics.
+### 3. Univariate analysis
+- **What percentage of ranked institutions fall into each score quartile?** — Supported. Quartile share calculated within selected data slice.
+### 3. Univariate analysis
+- **How does the spread of scores differ across NIRF categories?** — Supported. Score standard deviation by category.
+### 4. Bivariate analysis and correlation
+- **How strongly are Research and Professional Practice (RPC) scores associated with overall scores?** — Not supported by this file. RPC parameter scores are absent.
+### 4. Bivariate analysis and correlation
+- **How does Perception (PR) relate to overall scores?** — Not supported by this file. Perception parameter scores are absent.
+### 4. Bivariate analysis and correlation
+- **Which NIRF parameter has the strongest correlation with the overall score?** — Not supported by this file. The five parameter-score fields are absent.
+### 4. Bivariate analysis and correlation
+- **How are TLR and RPC scores related across institutions?** — Not supported by this file. TLR and RPC parameter scores are absent.
+### 4. Bivariate analysis and correlation
+- **Has the correlation between research scores and overall scores changed from 2017 to 2025?** — Not supported by this file. Research/RPC parameter scores are absent.
+### 5. Multivariate analysis
+- **How do the top five institutions compare across all five NIRF parameters?** — Not supported by this file. Five parameter scores are absent.
+### 5. Multivariate analysis
+- **Which institutions have high research scores but relatively low teaching scores?** — Not supported by this file. Research and teaching parameter scores are absent.
+### 5. Multivariate analysis
+- **Which institutions have high teaching scores but relatively low perception scores?** — Not supported by this file. TLR and Perception scores are absent.
+### 5. Multivariate analysis
+- **Which institutions have improved their overall scores despite declining scores in one or more parameters?** — Not supported by this file. Year-wise parameter scores are absent.
+### 5. Multivariate analysis
+- **Which institutions have the largest difference between their strongest and weakest parameters?** — Not supported by this file. Five parameter scores are absent.
+### 6. Distribution and statistical comparison
+- **How does the score distribution differ between the top 10 and the remaining institutions?** — Supported. Top-10 vs remaining score comparison.
+### 6. Distribution and statistical comparison
+- **Are NIRF scores more dispersed in one year than another?** — Supported. Year-wise score standard deviation.
+### 6. Distribution and statistical comparison
+- **Which NIRF parameter exhibits the greatest variability across institutions?** — Not supported by this file. Parameter-level scores are absent; only overall Score is supplied.
+### 6. Distribution and statistical comparison
+- **How do the median and interquartile range of scores change over time?** — Supported. Year-wise median, Q1, Q3 and IQR.
+### 6. Distribution and statistical comparison
+- **How does the score distribution differ across states?** — Supported. State-filtered score distribution and summary.
+### 7. Ranking transitions and institutional mobility
+- **How many institutions moved from the 51–100 band into the top 50 between two selected years?** — Supported. Rank-band promotion count.
+### 7. Ranking transitions and institutional mobility
+- **Which institutions entered or exited the top 10 between consecutive years?** — Supported. Top-10 set difference between years.
+### 7. Ranking transitions and institutional mobility
+- **What percentage of institutions remained in the same rank band from one year to the next?** — Supported. Same-band percentage among institutions present in both years.
+### 7. Ranking transitions and institutional mobility
+- **Which institutions experienced the largest upward and downward rank movements?** — Supported. Rank gain/loss between selected years.
+### 7. Ranking transitions and institutional mobility
+- **How many institutions moved up, moved down, or retained their positions each year?** — Supported. Year-to-year movement counts.
+### 8. Outlier detection and performance gaps
+- **Which institutions have unusually high research scores relative to their overall scores?** — Not supported by this file. Research/RPC parameter scores are absent.
+### 8. Outlier detection and performance gaps
+- **Which institutions perform substantially better in research than in teaching?** — Not supported by this file. Research and TLR parameter scores are absent.
+### 8. Outlier detection and performance gaps
+- **Which institutions experienced an unusually large year-to-year score change?** — Supported. Largest absolute consecutive-year score changes.
+### 8. Outlier detection and performance gaps
+- **Which institutions have a strong parameter score but a relatively poor overall rank?** — Not supported by this file. Parameter-level scores are absent.
+### 8. Outlier detection and performance gaps
+- **Which institutions have unusually high ranking volatility compared with similar institutions?** — Supported. Rank standard deviation for institutions with at least three years.
