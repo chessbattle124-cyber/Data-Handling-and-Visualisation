@@ -1,0 +1,327 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>NIRF AI Chatbot</title>
+    <style>
+        :root {
+            font-family: Arial, sans-serif;
+            color: #182338;
+            background: #f5f7fb
+        }
+
+        * {
+            box-sizing: border-box
+        }
+
+        body {
+            margin: 0
+        }
+
+        .app {
+            padding: 12px;
+            max-width: 1000px;
+            margin: auto
+        }
+
+        .header {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 10px
+        }
+
+        .logo {
+            width: 34px;
+            height: 34px;
+            border-radius: 10px;
+            background: #163e70;
+            color: white;
+            display: grid;
+            place-items: center;
+            font-weight: bold
+        }
+
+        h1 {
+            font-size: 16px;
+            margin: 0
+        }
+
+        .sub {
+            font-size: 11px;
+            color: #68778d;
+            margin-top: 3px
+        }
+
+        .status {
+            margin-left: auto;
+            font-size: 10px;
+            color: #657187
+        }
+
+        .led {
+            display: inline-block;
+            width: 7px;
+            height: 7px;
+            border-radius: 50%;
+            background: #d89b24;
+            margin-right: 5px
+        }
+
+        .examples {
+            display: flex;
+            gap: 6px;
+            flex-wrap: wrap;
+            margin: 9px 0
+        }
+
+        .chip {
+            border: 1px solid #d7deea;
+            background: #fff;
+            border-radius: 20px;
+            padding: 6px 9px;
+            font-size: 11px;
+            color: #29415f;
+            cursor: pointer
+        }
+
+        .chat {
+            background: #fff;
+            border: 1px solid #dfe5ee;
+            border-radius: 12px;
+            min-height: 125px;
+            max-height: 235px;
+            overflow: auto;
+            padding: 11px
+        }
+
+        .msg {
+            white-space: pre-wrap;
+            line-height: 1.45;
+            font-size: 12px;
+            margin: 7px 0
+        }
+
+        .user {
+            color: #215ca5;
+            font-weight: bold
+        }
+
+        .bot {
+            color: #243249
+        }
+
+        form {
+            display: flex;
+            gap: 7px;
+            margin-top: 8px
+        }
+
+        input {
+            min-width: 0;
+            flex: 1;
+            border: 1px solid #cbd5e2;
+            border-radius: 9px;
+            padding: 10px;
+            font-size: 12px
+        }
+
+        button.ask {
+            border: 0;
+            border-radius: 9px;
+            background: #163e70;
+            color: white;
+            padding: 0 16px;
+            font-weight: bold;
+            cursor: pointer
+        }
+
+        .result {
+            margin-top: 10px;
+            border: 1px solid #dfe5ee;
+            background: #fff;
+            border-radius: 12px;
+            padding: 10px;
+            min-height: 210px
+        }
+
+        .result h2 {
+            font-size: 12px;
+            margin: 0 0 7px
+        }
+
+        .chartarea {
+            height: 175px;
+            position: relative
+        }
+
+        .tablewrap {
+            overflow: auto;
+            max-height: 145px;
+            margin-top: 8px
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            font-size: 10px
+        }
+
+        td,
+        th {
+            padding: 5px;
+            border-bottom: 1px solid #edf0f4;
+            text-align: left
+        }
+
+        .disclaimer {
+            font-size: 10px;
+            color: #77849a;
+            margin-top: 7px
+        }
+    </style>
+</head>
+
+<body>
+    <main class="app">
+        <div class="header">
+            <div class="logo">N</div>
+            <div>
+                <h1>NIRF AI Assistant</h1>
+                <div class="sub">Ask questions about institutional rankings · 2017–2025</div>
+            </div>
+            <div class="status" id="status"><span class="led"></span>Connecting</div>
+        </div>
+        <div class="examples">
+            <button class="chip">Top 10 Engineering 2025</button>
+            <button class="chip">Which states have the most top 100 institutions in 2025?</button>
+            <button class="chip">Compare Karnataka and Tamil Nadu in 2025</button>
+            <button class="chip">Which institutions improved most from 2017 to 2025?</button>
+            <button class="chip">Show score distribution for Overall 2025</button>
+            <button class="chip">Which institutions remained in top 10 across multiple years?</button>
+        </div>
+        <div class="chat" id="chat">
+            <div class="msg bot">Hello! I analyse the uploaded NIRF dataset. Ask a question, and I will return an answer
+                and a chart when the data supports it.</div>
+        </div>
+        <form id="form"><input id="question" placeholder="Ask a question about NIRF..." autocomplete="off"><button
+                class="ask">Ask</button></form>
+        <section class="result">
+            <h2 id="chartTitle">Analytical visualization</h2>
+            <div class="chartarea"><canvas id="viz"></canvas></div>
+            <div class="tablewrap" id="table"></div>
+        </section>
+        <div class="disclaimer">Data source: user-provided nirf_cleaned.csv. TLR/RPC/GO/OI/Perception parameter scores
+            are not present in this file, so parameter-specific questions are explicitly unsupported.</div>
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://extensions.tableau.com/resources/tableau.extensions.1.latest.min.js"></script>
+    <script>
+        const $ = id => document.getElementById(id); let plot = null;
+        const CANDIDATE_PORTS = [5050, 5000, 5001];
+        let apiBase = null;
+
+        function say(t, cls) { const p = document.createElement('div'); p.className = 'msg ' + cls; p.textContent = t; $('chat').appendChild(p); $('chat').scrollTop = $('chat').scrollHeight; return p; }
+
+        async function resolveApiBase() {
+            if (apiBase) return apiBase;
+            for (const port of CANDIDATE_PORTS) {
+                try {
+                    const ctrl = new AbortController();
+                    const timer = setTimeout(() => ctrl.abort(), 1200);
+                    const r = await fetch(`http://127.0.0.1:${port}/health`, { signal: ctrl.signal });
+                    clearTimeout(timer);
+                    if (r.ok) {
+                        const j = await r.json();
+                        if (j && j.status === 'ok') {
+                            apiBase = `http://127.0.0.1:${port}`;
+                            return apiBase;
+                        }
+                    }
+                } catch (_) { }
+            }
+            return 'http://127.0.0.1:5050';
+        }
+
+        async function health() {
+            try {
+                const base = await resolveApiBase();
+                const r = await fetch(`${base}/health`);
+                const j = await r.json();
+                $('status').innerHTML = '<span class="led" style="background:' + (j.dataset_loaded ? '#19a36b' : '#d89b24') + '"></span>' + (j.dataset_loaded ? 'Dataset connected' : 'Dataset missing');
+            } catch (e) {
+                apiBase = null;
+                $('status').innerHTML = '<span class="led"></span>Backend offline';
+            }
+        }
+
+        function showChart(c) {
+            if (plot) { plot.destroy(); plot = null } $('chartTitle').textContent = c.title || 'Analytical visualization';
+            if (!window.Chart) return;
+            const isScatter = c.type === 'scatter';
+            plot = new Chart($('viz'), {
+                type: isScatter ? 'scatter' : (c.type === 'line' ? 'line' : 'bar'),
+                data: isScatter ? { datasets: [{ label: c.yLabel || 'Value', data: c.points || [], backgroundColor: '#2868a9' }] } :
+                    {
+                        labels: c.labels || [],
+                        datasets: (c.series || []).map(s => ({
+                            label: s.name,
+                            data: (s.values || []).map(v => typeof v === 'number' ? v : parseFloat(v) || 0),
+                            backgroundColor: c.type === 'line' ? 'rgba(35,105,168,.15)' : 'rgba(35,105,168,.72)',
+                            borderColor: '#2367a5',
+                            borderWidth: 1,
+                            tension: .25,
+                            fill: false
+                        }))
+                    },
+                options: {
+                    responsive: true, maintainAspectRatio: false, plugins: { legend: { display: true }, title: { display: false } },
+                    scales: { x: { title: { display: true, text: c.xLabel || '' }, ticks: { maxRotation: 45, minRotation: 0 } }, y: { title: { display: true, text: c.yLabel || '' }, beginAtZero: !isScatter } }
+                }
+            });
+        }
+
+        function showTable(rows) {
+            const el = $('table'); el.innerHTML = ''; if (!rows || !rows.length) return;
+            const cols = Object.keys(rows[0]).slice(0, 7); const t = document.createElement('table'), thead = document.createElement('tr');
+            cols.forEach(c => { const th = document.createElement('th'); th.textContent = c; thead.appendChild(th) }); t.appendChild(thead);
+            rows.slice(0, 20).forEach(row => { const tr = document.createElement('tr'); cols.forEach(c => { const td = document.createElement('td'); td.textContent = row[c] ?? ''; tr.appendChild(td) }); t.appendChild(tr) }); el.appendChild(t);
+        }
+
+        async function ask(q) {
+            if (!q.trim()) return;
+            say('You: ' + q, 'user');
+            const thinkingEl = say('Thinking...', 'bot');
+            try {
+                const base = await resolveApiBase();
+                const r = await fetch(`${base}/ask`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ question: q })
+                });
+                const data = await r.json();
+                thinkingEl.remove();
+                say('NIRF AI: ' + (data.answer || data.error || 'No response'), 'bot');
+                if (data.chart) showChart(data.chart);
+                else {
+                    $('chartTitle').textContent = 'No chart for this question';
+                    if (plot) { plot.destroy(); plot = null }
+                }
+                showTable(data.table);
+            } catch (e) {
+                thinkingEl.remove();
+                apiBase = null;
+                say('Unable to reach the chatbot service. Start the backend using the instructions in the project README.', 'bot');
+            }
+        }
+
+        $('form').addEventListener('submit', e => { e.preventDefault(); const q = $('question').value; $('question').value = ''; ask(q) });
+        document.querySelectorAll('.chip').forEach(b => b.addEventListener('click', () => ask(b.textContent)));
+        health(); setInterval(health, 10000);
+        if (window.tableau && tableau.extensions) { tableau.extensions.initializeAsync().then(() => { console.log('Tableau dashboard extension initialized') }).catch(e => console.warn('Extension context not detected; standalone preview mode', e)) }
+    </script>
+</body>
+
+</html>

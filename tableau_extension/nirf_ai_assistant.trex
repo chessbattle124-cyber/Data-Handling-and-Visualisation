@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest manifest-version="0.1" xmlns="http://www.tableau.com/xml/extension_manifest">
+  <dashboard-extension id="com.nirf.analytics.assistant" extension-version="1.0.1">
+    <default-locale>en_US</default-locale>
+    <name resource-id="name"/>
+    <description>NIRF 2017–2025 natural-language analytics assistant.</description>
+    <author name="NIRF Analytics Project" email="nirf-ai-assistant@example.com" organization="NIRF Analytics Project" website="https://www.tableau.com"/>
+    <min-api-version>1.0</min-api-version>
+    <source-location>
+      <url>http://localhost:8000/index.html</url>
+    </source-location>
+    <icon>iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAYAAABxLuKEAAAB10lEQVR4nO3bv0rDUBzF8ZOoYF1bca3gIFgnH0BEKW72FfQB+gDOji510ccQJxH0Edw6CGJxrXStgpo4pWDlmNzm1/zjfMZAb+/9ctOUhHiNzU4I+cPPewJFpTCEwhAKQygMoTCEwhCLFoOstLsWw5ga312k+ryX5g9eEYNMmzXQTGHKEGSaayDn35gyRgHc5+0UpqxRIi7zTxym7FEiSdehyzWRKExVdkskyXq0Y4jYMFXbLZG4dWnHEApDKAyhMITCECZhrk5aeO3t4el8F+3txq9jl8cti6/InEmY/a06AGB5ycfp0QYWfG9y7KBVt/iKzJmfSuurNXR21qyHzdxcfmO6h034vjePoTNjcmtzWrNRm8ewmdJViTAN8xWEGLy9Ww6ZG9MwQRCidzuwHDI35qfSzeMQL8Ox9bCZMwnz0B8BAO77I3wHIc6un/HxGUyOlVHs45Oq3o8B/n+koqsSoTCEwhAKQygMoTCEwhAKQygMoTCEwhAKQygMoTCEwhAKQygMoTCEwhAKQ8SGSfsWR1HFrUs7hkgUpmq7Jsl6tGOIxGGqsmuSrsNpx5Q9jsv8nU+lssZxnbfeiSRShYkUMVCub9FWmS7XhMIQCkMoDKEwhMIQP7iZaE7WdcuRAAAAAElFTkSuQmCC</icon>
+  </dashboard-extension>
+  <resources>
+    <resource id="name">
+      <text locale="en_US">NIRF AI Assistant</text>
+    </resource>
+  </resources>
+</manifest>
