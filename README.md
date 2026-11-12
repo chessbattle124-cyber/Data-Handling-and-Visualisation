@@ -1,69 +1,97 @@
-# NIRF Analytics & AI — Tableau project
+# NIRF AI CHATBOT
 
-This package uses the **user-supplied `nirf_cleaned.csv`** as its only ranking data source. It includes a Tableau workbook package, an embedded Tableau dashboard extension for the chatbot, analysis-ready data, derived summaries, and a local query API.
+An intelligent conversational analytics platform for exploring and querying India's **National Institutional Ranking Framework (NIRF)** data from **2017 to 2025**.
 
-## Dataset audit
-- **6,844 source rows**
-- **2017–2025** (nine years)
-- **13 categories in this supplied file:** Agriculture, Architecture, College, Dental, Engineering, Innovation, Law, Management, Medical, Overall, Pharmacy, Research, University
-- **2,149 distinct institution IDs**
-- **34 state/UT labels**
-- **0 duplicate Year + Category + Institution_ID keys**
-- **2 withdrawn rows**
-- **21 missing overall scores**
-- **2 missing numeric ranks**
+Ask natural language questions about college and university rankings, track institutional performance over time, compare states, and view dynamic analytical charts and data tables instantly.
 
-See `docs/DATA_AUDIT.md` and `data/data_quality_report.json`.
+---
 
-## Main Tableau deliverables
-- `NIRF_Analytics_AI.twbx` — packaged Tableau workbook with CSV data included.
-- `NIRF_Analytics_AI.twb` — editable workbook XML.
-- `tableau_extension/nirf_ai_assistant.trex` — Tableau dashboard extension manifest.
-- `tableau_extension/index.html` — chatbot UI embedded as a Tableau extension worksheet.
-- `backend/app.py` — query API; uses Python standard library HTTP server plus Pandas/NumPy.
+## What is NIRF AI CHATBOT?
 
-The workbook includes a dashboard with trend, institution comparison, top-100 state, category coverage, and the chatbot extension panel. Tableau may prompt you to trust/allow the local extension.
+**NIRF AI CHATBOT** is an interactive, data-driven assistant designed to make higher education rankings accessible and easy to analyze. Instead of manually combing through dense ranking tables or spreadsheets, you can ask plain-English questions and get instant, accurate answers backed by interactive charts.
 
-## Run on macOS
-Open Terminal in this extracted project folder.
+### Key Capabilities
+- **Natural Language Understanding**: Ask questions in plain English—from simple queries ("Top 10 Engineering 2025") to complex trend analyses ("Which institutions improved most from 2017 to 2025?").
+- **Hybrid Analytical Engine**: Combines deterministic Python/Pandas data processing for 100% accurate rankings with Google Gemini AI for flexible query interpretation and natural language responses.
+- **Dynamic Data Visualizations**: Automatically generates relevant charts (bar charts, line trends, scatter plots via Chart.js) and summary data tables.
+- **9-Year Historical Depth**: Covers 2017 through 2025 across all official NIRF categories.
 
-### Terminal 1 — chatbot API
+---
+
+## Dataset Overview
+
+The chatbot queries a comprehensive, verified NIRF dataset containing:
+- **6,844 records** across **9 years** (2017–2025)
+- **13 Categories**: Engineering, Management, Medical, University, Overall, Pharmacy, College, Law, Architecture, Dental, Agriculture, Innovation, Research
+- **2,149 unique institutions** across **34 Indian States & Union Territories**
+- Metrics: Ranks, Overall Scores, Year-over-Year rank changes, and State/City distributions
+---
+
+## Getting Started
+
+### Prerequisites
+- Python 3.8 or higher installed on your system.
+
+### 1. Installation & Environment Setup
+
+Open Terminal in the project root directory:
+
 ```bash
+# Create and activate a Python virtual environment
 python3 -m venv .venv
 source .venv/bin/activate
+
+# Install required dependencies
 pip install -r requirements.txt
-python backend/app.py
 ```
-The API listens on `http://127.0.0.1:5000`.
 
-### Terminal 2 — extension web server
+### 2. (Optional) Configure Gemini API Key
+
+The chatbot includes a built-in deterministic query engine, but you can enable enhanced AI responses by configuring a Google Gemini API key:
+
 ```bash
-python3 -m http.server 8000 --directory tableau_extension
+cp .env.example .env
 ```
-The extension UI is served from `http://localhost:8000/index.html`.
+---
 
-### Open Tableau
-1. Open `NIRF_Analytics_AI.twbx` in Tableau Desktop.
-2. Open the dashboard **NIRF Analytics & AI**.
-3. Ensure the two local services above are running; the chatbot panel is configured to use them.
-4. If Tableau shows an extension security prompt, review and allow the local extension for this demonstration.
-5. Use dashboard filters / worksheet filters in Tableau to explore Year, Category, State and Institution. For global dashboard filters, add the fields from the Data pane to Filters on the relevant worksheets and choose **Apply to Worksheets → All Using This Data Source**.
+## How to Start the Application
 
-For another computer, replace `localhost` in the extension and API configuration with a reachable HTTPS host and configure Tableau extension allow-list / network policy. The included local configuration is for same-machine classroom demonstration.
+You can start the server and frontend using either the **single-command script** or by running the services **manually in separate terminals**.
 
-## Example chatbot questions
-- `Top 10 Engineering 2025`
-- `How has Miranda House ranking changed from 2017 to 2025?`
-- `Which states have the most top 100 institutions in 2025?`
-- `Which states improved their top 100 representation from 2017 to 2025?`
-- `Compare Karnataka and Tamil Nadu in 2025`
-- `What percentage of institutions fall into each score quartile in Overall 2025?`
-- `Which institutions improved most from 2017 to 2025?`
-- `Which institutions entered or exited the top 10 in 2025?`
-- `How many institutions moved from 51–100 into top 50 in 2025?`
-- `Which institutions have highest ranking volatility?`
+### Option A: Quick Start (Single Command)
 
-## Important source limitation
-The uploaded CSV contains **overall Score and Rank only**. It does not include TLR, RPC, GO, OI, or Perception parameter scores. Therefore **14 of the PDF's 40 sample questions cannot be calculated from this file** (all five bivariate parameter questions, all five five-parameter multivariate questions, one parameter-variability question, and three research/teaching parameter outlier questions). The chatbot explicitly reports this limitation rather than making up answers. See `docs/SAMPLE_QUESTION_COVERAGE.md`.
+Run the included startup script:
 
-The supplied dataset has 13 observed categories; the dashboard reflects those categories and does not invent categories absent from the upload. Rankings are category-specific: compare rank values only within the same category. Institutions missing from one year may be entrants/exits in the supplied data, not necessarily first-ever or last-ever NIRF participants.
+```bash
+./start_chatbot.sh
+```
+
+This launches both the backend server and the frontend web server in the background:
+- **Web UI**: Open [http://localhost:8000](http://localhost:8000) in your browser.
+- **Backend Health Check**: [http://127.0.0.1:5050/health](http://127.0.0.1:5050/health)
+
+To stop all running servers:
+```bash
+./stop_chatbot.sh
+```
+
+---
+
+### Option B: Manual Start (Two Terminals)
+
+If you prefer to run and view logs in your terminal windows:
+
+#### Terminal 1 — Start the Backend Server
+```bash
+source .venv/bin/activate
+python3 backend/app.py
+```
+*The backend API server will start at `http://127.0.0.1:5050` (or `http://127.0.0.1:5000` if port 5050 is busy).*
+
+#### Terminal 2 — Start the Frontend
+```bash
+python3 -m http.server 8000 --directory frontend
+```
+*The frontend web server will start at `http://localhost:8000`.*
+
+Now open **[http://localhost:8000](http://localhost:8000)** in any web browser to use the chatbot.
